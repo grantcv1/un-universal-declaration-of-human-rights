@@ -30,17 +30,17 @@
         </FRBRManifestation>
       </identification>
       <references source="#gvergottini">
-        <TLCOrganization eId="unga" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
-        <TLCPerson eId="gvergottini" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-        <TLCRole eId="author" href="/ontology/role/author" showAs="Author"/>
-        <TLCRole eId="editor" href="/ontology/role/editor" showAs="Editor"/>
+        <TLCOrganization eId="unga" GUID="AB9063F5-853D-4411-9BE3-961DE5FB86C2" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
+        <TLCPerson eId="gvergottini" GUID="1874E66F-D1D0-4A43-BE5F-64BF76DF10CC" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+        <TLCRole eId="author" GUID="6177CBF1-E52F-4255-979B-18F87C32A2D7" href="/ontology/role/author" showAs="Author"/>
+        <TLCRole eId="editor" GUID="D0C6FF0A-9214-4FD0-9268-7D0281702059" href="/ontology/role/editor" showAs="Editor"/>
       </references>
     </meta>
     <coverPage>
       <p class="band">United Nations · General Assembly Resolution 217 A (III) · Paris, 10 December 1948</p>
     </coverPage>
     <collectionBody>
-      <component eId="cmp_eng">
+      <component eId="cmp_eng" GUID="CCE4FEAF-269F-491C-A593-587974BCE055">
       <statement name="declaration" contains="originalVersion">
         <meta>
           <identification source="#gv_eng">
@@ -69,25 +69,25 @@
             </FRBRManifestation>
           </identification>
           <references source="#gv_eng">
-            <TLCOrganization eId="unga_eng" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
-            <TLCPerson eId="gv_eng" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-            <TLCRole eId="author_eng" href="/ontology/role/author" showAs="Author"/>
-            <TLCRole eId="editor_eng" href="/ontology/role/editor" showAs="Editor"/>
+            <TLCOrganization eId="unga_eng" GUID="38806F32-5164-48F2-B1EE-726F86A24A62" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
+            <TLCPerson eId="gv_eng" GUID="04A69092-104D-4BD2-9101-8D35FA7D8333" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+            <TLCRole eId="author_eng" GUID="9AE173C1-4D36-4AA0-8E69-B487D51C6AFE" href="/ontology/role/author" showAs="Author"/>
+            <TLCRole eId="editor_eng" GUID="28B7563B-D2C3-4498-907E-2E825F023177" href="/ontology/role/editor" showAs="Editor"/>
           </references>
         </meta>
         <preface xml:lang="en">
           <p class="title"><docTitle>Universal Declaration of Human Rights</docTitle></p>
         </preface>
         <preamble xml:lang="en">
-          <container name="preambleHeading" eId="cmp_eng__pre"><p class="preHead">Preamble</p></container>
+          <container name="preambleHeading" eId="cmp_eng__pre" GUID="0BD00BA5-AAF0-47C8-93CB-BF5794945BBE"><p class="preHead">Preamble</p></container>
           <recitals>
-            <recital eId="cmp_eng__rec_1"><p>Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,</p></recital>
-            <recital eId="cmp_eng__rec_2"><p>Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,</p></recital>
-            <recital eId="cmp_eng__rec_3"><p>Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law,</p></recital>
-            <recital eId="cmp_eng__rec_4"><p>Whereas it is essential to promote the development of friendly relations between nations,</p></recital>
-            <recital eId="cmp_eng__rec_5"><p>Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom,</p></recital>
-            <recital eId="cmp_eng__rec_6"><p>Whereas Member States have pledged themselves to achieve, in co-operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms,</p></recital>
-            <recital eId="cmp_eng__rec_7"><p>Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge,</p></recital>
+            <recital eId="cmp_eng__rec_1" GUID="D994DDF2-5B27-4271-A8AE-54E26283CD03"><p>Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world,</p></recital>
+            <recital eId="cmp_eng__rec_2" GUID="CBF33830-1CB7-4C69-8AF8-23A4A8006A14"><p>Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people,</p></recital>
+            <recital eId="cmp_eng__rec_3" GUID="4354A52F-B58A-4BE4-95A6-222098438248"><p>Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law,</p></recital>
+            <recital eId="cmp_eng__rec_4" GUID="58F02833-9804-41CB-AA5D-E20BA6AFC615"><p>Whereas it is essential to promote the development of friendly relations between nations,</p></recital>
+            <recital eId="cmp_eng__rec_5" GUID="F6B05602-E5B3-46CC-8278-D6709B150565"><p>Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom,</p></recital>
+            <recital eId="cmp_eng__rec_6" GUID="21835C45-4689-4CA0-BBC9-894884E2C4D4"><p>Whereas Member States have pledged themselves to achieve, in co-operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms,</p></recital>
+            <recital eId="cmp_eng__rec_7" GUID="A4AA791E-DBE5-4E6B-B59E-14E3C0D01AAD"><p>Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge,</p></recital>
           </recitals>
           <formula name="enactingFormula">
             <p>Now, therefore,</p>
@@ -96,174 +96,174 @@
           </formula>
         </preamble>
         <mainBody xml:lang="en">
-          <article eId="cmp_eng__art_1">
+          <article eId="cmp_eng__art_1" GUID="F62DB06F-0222-4001-A056-0D52E5FFE56D">
             <num>Article 1</num>
             <content>
               <p>All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_2">
+          <article eId="cmp_eng__art_2" GUID="1B703A51-D528-4964-9A0D-9FE8BDE20179">
             <num>Article 2</num>
             <content>
               <p>Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind, such as race, colour, sex, language, religion, political or other opinion, national or social origin, property, birth or other status. Furthermore, no distinction shall be made on the basis of the political, jurisdictional or international status of the country or territory to which a person belongs, whether it be independent, trust, non-self-governing or under any other limitation of sovereignty.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_3">
+          <article eId="cmp_eng__art_3" GUID="53A78A8E-2921-4C49-9EDF-A7B7D1F0D526">
             <num>Article 3</num>
             <content>
               <p>Everyone has the right to life, liberty and security of person.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_4">
+          <article eId="cmp_eng__art_4" GUID="5804357B-AB6B-4409-B4DE-57B58E428222">
             <num>Article 4</num>
             <content>
               <p>No one shall be held in slavery or servitude; slavery and the slave trade shall be prohibited in all their forms.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_5">
+          <article eId="cmp_eng__art_5" GUID="82177364-9D70-4F2E-8581-4F8F76234083">
             <num>Article 5</num>
             <content>
               <p>No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_6">
+          <article eId="cmp_eng__art_6" GUID="831DF7C0-7B0D-4A8D-8243-5E6015DC7BE0">
             <num>Article 6</num>
             <content>
               <p>Everyone has the right to recognition everywhere as a person before the law.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_7">
+          <article eId="cmp_eng__art_7" GUID="B0606D7F-7D6C-4E77-AFCE-EFFC85BAEF5B">
             <num>Article 7</num>
             <content>
               <p>All are equal before the law and are entitled without any discrimination to equal protection of the law. All are entitled to equal protection against any discrimination in violation of this Declaration and against any incitement to such discrimination.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_8">
+          <article eId="cmp_eng__art_8" GUID="FED666AB-D361-4F3E-A040-991B95E64545">
             <num>Article 8</num>
             <content>
               <p>Everyone has the right to an effective remedy by the competent national tribunals for acts violating the fundamental rights granted him by the constitution or by law.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_9">
+          <article eId="cmp_eng__art_9" GUID="EF4489E5-986D-4AEB-A06C-9887C40A61E3">
             <num>Article 9</num>
             <content>
               <p>No one shall be subjected to arbitrary arrest, detention or exile.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_10">
+          <article eId="cmp_eng__art_10" GUID="EE0E483C-E90E-4E15-A6D7-86825B94DC8D">
             <num>Article 10</num>
             <content>
               <p>Everyone is entitled in full equality to a fair and public hearing by an independent and impartial tribunal, in the determination of his rights and obligations and of any criminal charge against him.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_11">
+          <article eId="cmp_eng__art_11" GUID="7657D136-9EA1-4374-B91C-E2E9CADE9322">
             <num>Article 11</num>
-            <paragraph eId="cmp_eng__art_11__para_1"><num>1.</num><content><p>Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_11__para_2"><num>2.</num><content><p>No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_11__para_1" GUID="43DFCE1B-9DB8-4BAD-848D-E3B9E9977A0D"><num>1.</num><content><p>Everyone charged with a penal offence has the right to be presumed innocent until proved guilty according to law in a public trial at which he has had all the guarantees necessary for his defence.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_11__para_2" GUID="805947A2-6F69-4339-9C94-18DA3E6D9B25"><num>2.</num><content><p>No one shall be held guilty of any penal offence on account of any act or omission which did not constitute a penal offence, under national or international law, at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the penal offence was committed.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_12">
+          <article eId="cmp_eng__art_12" GUID="F4A84E42-B064-4E80-AD60-377198B94298">
             <num>Article 12</num>
             <content>
               <p>No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour and reputation. Everyone has the right to the protection of the law against such interference or attacks.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_13">
+          <article eId="cmp_eng__art_13" GUID="2B65C2C8-10EC-469D-9466-BF00AC53FA52">
             <num>Article 13</num>
-            <paragraph eId="cmp_eng__art_13__para_1"><num>1.</num><content><p>Everyone has the right to freedom of movement and residence within the borders of each state.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_13__para_2"><num>2.</num><content><p>Everyone has the right to leave any country, including his own, and to return to his country.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_13__para_1" GUID="431A4FA9-FC42-4335-A153-E476BC6FD954"><num>1.</num><content><p>Everyone has the right to freedom of movement and residence within the borders of each state.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_13__para_2" GUID="2A1FA4B5-071C-406C-BCDB-AD4EC4181C88"><num>2.</num><content><p>Everyone has the right to leave any country, including his own, and to return to his country.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_14">
+          <article eId="cmp_eng__art_14" GUID="F5E6B177-F0F7-4EB7-A071-E839227ECB85">
             <num>Article 14</num>
-            <paragraph eId="cmp_eng__art_14__para_1"><num>1.</num><content><p>Everyone has the right to seek and to enjoy in other countries asylum from persecution.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_14__para_2"><num>2.</num><content><p>This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_14__para_1" GUID="51A83623-CCFB-416A-8D45-88564D3C3311"><num>1.</num><content><p>Everyone has the right to seek and to enjoy in other countries asylum from persecution.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_14__para_2" GUID="0FFF867F-5D26-44E0-946C-F8623E9C68A0"><num>2.</num><content><p>This right may not be invoked in the case of prosecutions genuinely arising from non-political crimes or from acts contrary to the purposes and principles of the United Nations.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_15">
+          <article eId="cmp_eng__art_15" GUID="5EB695C3-13F6-4454-9C61-48DA0CF2C863">
             <num>Article 15</num>
-            <paragraph eId="cmp_eng__art_15__para_1"><num>1.</num><content><p>Everyone has the right to a nationality.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_15__para_2"><num>2.</num><content><p>No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_15__para_1" GUID="53556781-72E9-42FA-B4F2-8E5004AD1AF8"><num>1.</num><content><p>Everyone has the right to a nationality.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_15__para_2" GUID="E961A1C1-9EB1-4EE9-9F4A-EB0F7C0E1FF4"><num>2.</num><content><p>No one shall be arbitrarily deprived of his nationality nor denied the right to change his nationality.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_16">
+          <article eId="cmp_eng__art_16" GUID="AE836CEE-18CA-4A06-9183-5A428E9B44D3">
             <num>Article 16</num>
-            <paragraph eId="cmp_eng__art_16__para_1"><num>1.</num><content><p>Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_16__para_2"><num>2.</num><content><p>Marriage shall be entered into only with the free and full consent of the intending spouses.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_16__para_3"><num>3.</num><content><p>The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_16__para_1" GUID="7C41CEB1-5147-4068-87D5-B4C0213A849C"><num>1.</num><content><p>Men and women of full age, without any limitation due to race, nationality or religion, have the right to marry and to found a family. They are entitled to equal rights as to marriage, during marriage and at its dissolution.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_16__para_2" GUID="FAF13799-77B0-4A6A-87B1-18286D4F5F4E"><num>2.</num><content><p>Marriage shall be entered into only with the free and full consent of the intending spouses.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_16__para_3" GUID="F02BDC4E-C9AF-4F8C-8850-33A0AB2207A6"><num>3.</num><content><p>The family is the natural and fundamental group unit of society and is entitled to protection by society and the State.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_17">
+          <article eId="cmp_eng__art_17" GUID="396685F1-816A-4E93-8786-C5A848206A2A">
             <num>Article 17</num>
-            <paragraph eId="cmp_eng__art_17__para_1"><num>1.</num><content><p>Everyone has the right to own property alone as well as in association with others.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_17__para_2"><num>2.</num><content><p>No one shall be arbitrarily deprived of his property.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_17__para_1" GUID="3F961C6A-B05E-4807-BE8B-5223ABF66092"><num>1.</num><content><p>Everyone has the right to own property alone as well as in association with others.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_17__para_2" GUID="13B83DA1-12B1-44D4-B4DF-960F97124D9C"><num>2.</num><content><p>No one shall be arbitrarily deprived of his property.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_18">
+          <article eId="cmp_eng__art_18" GUID="3A09F3D1-E723-4187-B6D1-FBB8B3B11AC0">
             <num>Article 18</num>
             <content>
               <p>Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief, and freedom, either alone or in community with others and in public or private, to manifest his religion or belief in teaching, practice, worship and observance.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_19">
+          <article eId="cmp_eng__art_19" GUID="795A0DBB-BA1A-409F-8F86-2E1170730B6D">
             <num>Article 19</num>
             <content>
               <p>Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_20">
+          <article eId="cmp_eng__art_20" GUID="E57B4443-534A-400B-97B7-7709EE96A3A2">
             <num>Article 20</num>
-            <paragraph eId="cmp_eng__art_20__para_1"><num>1.</num><content><p>Everyone has the right to freedom of peaceful assembly and association.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_20__para_2"><num>2.</num><content><p>No one may be compelled to belong to an association.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_20__para_1" GUID="D6A780A2-8E37-40AD-85D9-E0C0087AE8E8"><num>1.</num><content><p>Everyone has the right to freedom of peaceful assembly and association.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_20__para_2" GUID="EB0DE7E2-ED0D-4CB3-A84E-051957A0974E"><num>2.</num><content><p>No one may be compelled to belong to an association.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_21">
+          <article eId="cmp_eng__art_21" GUID="FFB8CDD2-F1CC-488D-AEC1-11C4831007C1">
             <num>Article 21</num>
-            <paragraph eId="cmp_eng__art_21__para_1"><num>1.</num><content><p>Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_21__para_2"><num>2.</num><content><p>Everyone has the right of equal access to public service in his country.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_21__para_3"><num>3.</num><content><p>The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_21__para_1" GUID="76440842-52E5-4010-AEC1-DCD82190C970"><num>1.</num><content><p>Everyone has the right to take part in the government of his country, directly or through freely chosen representatives.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_21__para_2" GUID="380FBB96-ECB8-4A00-A7B4-F824D129E81F"><num>2.</num><content><p>Everyone has the right of equal access to public service in his country.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_21__para_3" GUID="E530C420-B401-4A89-ADCF-48AC9F7DBABB"><num>3.</num><content><p>The will of the people shall be the basis of the authority of government; this will shall be expressed in periodic and genuine elections which shall be by universal and equal suffrage and shall be held by secret vote or by equivalent free voting procedures.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_22">
+          <article eId="cmp_eng__art_22" GUID="05577F0C-888E-44B9-9D60-61F7402041A1">
             <num>Article 22</num>
             <content>
               <p>Everyone, as a member of society, has the right to social security and is entitled to realization, through national effort and international co-operation and in accordance with the organization and resources of each State, of the economic, social and cultural rights indispensable for his dignity and the free development of his personality.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_23">
+          <article eId="cmp_eng__art_23" GUID="B3F20DC1-43B6-42EC-8899-274F1A62A056">
             <num>Article 23</num>
-            <paragraph eId="cmp_eng__art_23__para_1"><num>1.</num><content><p>Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_23__para_2"><num>2.</num><content><p>Everyone, without any discrimination, has the right to equal pay for equal work.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_23__para_3"><num>3.</num><content><p>Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_23__para_4"><num>4.</num><content><p>Everyone has the right to form and to join trade unions for the protection of his interests.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_23__para_1" GUID="665C64D3-D797-48F0-B19F-E6D909CFC7DC"><num>1.</num><content><p>Everyone has the right to work, to free choice of employment, to just and favourable conditions of work and to protection against unemployment.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_23__para_2" GUID="5B25E03F-CA93-44DA-8844-5E189984571B"><num>2.</num><content><p>Everyone, without any discrimination, has the right to equal pay for equal work.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_23__para_3" GUID="FDF5E5FF-C109-4B12-A302-2F760CFE48C6"><num>3.</num><content><p>Everyone who works has the right to just and favourable remuneration ensuring for himself and his family an existence worthy of human dignity, and supplemented, if necessary, by other means of social protection.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_23__para_4" GUID="DC8DB7C8-8D37-49C7-B4DE-8ED647660F66"><num>4.</num><content><p>Everyone has the right to form and to join trade unions for the protection of his interests.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_24">
+          <article eId="cmp_eng__art_24" GUID="6484B3FB-8ABE-4C4F-8299-850DF9150F89">
             <num>Article 24</num>
             <content>
               <p>Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays with pay.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_25">
+          <article eId="cmp_eng__art_25" GUID="332917C7-2D59-4682-A29E-2CA6A5FDFB08">
             <num>Article 25</num>
-            <paragraph eId="cmp_eng__art_25__para_1"><num>1.</num><content><p>Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_25__para_2"><num>2.</num><content><p>Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_25__para_1" GUID="46EACA6C-22DB-44AB-99C2-73553B80E82F"><num>1.</num><content><p>Everyone has the right to a standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_25__para_2" GUID="ED1110A7-09B7-4FFF-A479-04A07CA34483"><num>2.</num><content><p>Motherhood and childhood are entitled to special care and assistance. All children, whether born in or out of wedlock, shall enjoy the same social protection.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_26">
+          <article eId="cmp_eng__art_26" GUID="B5FFFA6D-A943-44EA-A003-D60199C718E3">
             <num>Article 26</num>
-            <paragraph eId="cmp_eng__art_26__para_1"><num>1.</num><content><p>Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_26__para_2"><num>2.</num><content><p>Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_26__para_3"><num>3.</num><content><p>Parents have a prior right to choose the kind of education that shall be given to their children.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_26__para_1" GUID="4B07EB3D-F309-44DC-83A6-DEB9022A6BC8"><num>1.</num><content><p>Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_26__para_2" GUID="E2506024-FFA0-4EC3-885F-F64610ED1C89"><num>2.</num><content><p>Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_26__para_3" GUID="4F4B940A-ED61-4322-82D0-13B87B421394"><num>3.</num><content><p>Parents have a prior right to choose the kind of education that shall be given to their children.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_27">
+          <article eId="cmp_eng__art_27" GUID="CFAB8EE3-47B4-4AF5-AE17-7FB6185A2E8F">
             <num>Article 27</num>
-            <paragraph eId="cmp_eng__art_27__para_1"><num>1.</num><content><p>Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_27__para_2"><num>2.</num><content><p>Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_27__para_1" GUID="606EB0CA-E49D-4903-BC14-C352BC572AC8"><num>1.</num><content><p>Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_27__para_2" GUID="7CEE7EE8-4F0B-4BF9-A2E2-B3D2499C1D52"><num>2.</num><content><p>Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_28">
+          <article eId="cmp_eng__art_28" GUID="0867E6FC-22DB-49ED-91AC-BAFEAE5872DB">
             <num>Article 28</num>
             <content>
               <p>Everyone is entitled to a social and international order in which the rights and freedoms set forth in this Declaration can be fully realized.</p>
             </content>
           </article>
-          <article eId="cmp_eng__art_29">
+          <article eId="cmp_eng__art_29" GUID="EF5C1345-D6F0-48F2-96C0-8BF558F35196">
             <num>Article 29</num>
-            <paragraph eId="cmp_eng__art_29__para_1"><num>1.</num><content><p>Everyone has duties to the community in which alone the free and full development of his personality is possible.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_29__para_2"><num>2.</num><content><p>In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.</p></content></paragraph>
-            <paragraph eId="cmp_eng__art_29__para_3"><num>3.</num><content><p>These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_29__para_1" GUID="796719AB-ABA4-429F-B26E-3BBE1E5D196A"><num>1.</num><content><p>Everyone has duties to the community in which alone the free and full development of his personality is possible.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_29__para_2" GUID="05170D15-B220-4954-B0CE-59489E126021"><num>2.</num><content><p>In the exercise of his rights and freedoms, everyone shall be subject only to such limitations as are determined by law solely for the purpose of securing due recognition and respect for the rights and freedoms of others and of meeting the just requirements of morality, public order and the general welfare in a democratic society.</p></content></paragraph>
+            <paragraph eId="cmp_eng__art_29__para_3" GUID="B076E0D8-87BB-4C5A-B862-4E4205D4954E"><num>3.</num><content><p>These rights and freedoms may in no case be exercised contrary to the purposes and principles of the United Nations.</p></content></paragraph>
           </article>
-          <article eId="cmp_eng__art_30">
+          <article eId="cmp_eng__art_30" GUID="4887EB0D-E376-4D31-A00A-11AEFA68CB81">
             <num>Article 30</num>
             <content>
               <p>Nothing in this Declaration may be interpreted as implying for any State, group or person any right to engage in any activity or to perform any act aimed at the destruction of any of the rights and freedoms set forth herein.</p>
@@ -272,7 +272,7 @@
         </mainBody>
       </statement>
       </component>
-      <component eId="cmp_ara">
+      <component eId="cmp_ara" GUID="72BD9358-7F5C-4EEE-9FB8-D20A322B3D2C">
       <statement name="declaration" contains="originalVersion">
         <meta>
           <identification source="#gv_ara">
@@ -301,25 +301,25 @@
             </FRBRManifestation>
           </identification>
           <references source="#gv_ara">
-            <TLCOrganization eId="unga_ara" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
-            <TLCPerson eId="gv_ara" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-            <TLCRole eId="author_ara" href="/ontology/role/author" showAs="Author"/>
-            <TLCRole eId="editor_ara" href="/ontology/role/editor" showAs="Editor"/>
+            <TLCOrganization eId="unga_ara" GUID="0CC20BCB-2D26-4688-B44C-8E946AD59F42" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
+            <TLCPerson eId="gv_ara" GUID="CF3F71D5-7AB7-4FE0-96A0-CDF8244A339A" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+            <TLCRole eId="author_ara" GUID="0FE5F9E4-27F4-4DF2-B38C-9030656EC3E2" href="/ontology/role/author" showAs="Author"/>
+            <TLCRole eId="editor_ara" GUID="11065122-36AB-4873-8C5D-5EF08121A1B3" href="/ontology/role/editor" showAs="Editor"/>
           </references>
         </meta>
         <preface xml:lang="ar">
           <p class="title"><docTitle>الإعلان العالمي لحقوق الإنسان</docTitle></p>
         </preface>
         <preamble xml:lang="ar">
-          <container name="preambleHeading" eId="cmp_ara__pre"><p class="preHead">الديباجة</p></container>
+          <container name="preambleHeading" eId="cmp_ara__pre" GUID="809381DB-27E8-4B1E-BB8A-17719C7D4FD2"><p class="preHead">الديباجة</p></container>
           <recitals>
-            <recital eId="cmp_ara__rec_1"><p>لما كان الاعتراف بالكرامة المتأصلة في جميع أعضاء الأسرة البشرية وبحقوقهم المتساوية الثابتة هو أساس الحرية والعدل والسلام في العالم،</p></recital>
-            <recital eId="cmp_ara__rec_2"><p>في حين أن تناسي حقوق الإنسان قد أدى إلى أعمال همجية أثارت غضب ضمير البشرية، وظهور عالم يتمتع فيه البشر بحرية الكلام والمعتقد والتحرر من الخوف والعوز قد أعلن أنه أعلى تطلعات من عامة الناس،</p></recital>
-            <recital eId="cmp_ara__rec_3"><p>ولما كان من الضروري أن يتولى القانون حماية حقوق الإنسان لكيلا يضطر المرء آخر الأمر إلى التمرد على الاستبداد والظلم،</p></recital>
-            <recital eId="cmp_ara__rec_4"><p>ولما كان من الجوهري تعزيز تنمية العلاقات الودية بين الدول،</p></recital>
-            <recital eId="cmp_ara__rec_5"><p>ولما كانت شعوب الأمم المتحدة قد أكدت في الميثاق من جديد إيمانها بحقوق الإنسان الأساسية وبكرامة الفرد وقدره وبما للرجال والنساء من حقوق متساوية وحزمت أمرها على أن تدفع بالرقي الاجتماعي قدماً وأن ترفع مستوى الحياة في جو من الحرية أفسح،</p></recital>
-            <recital eId="cmp_ara__rec_6"><p>ولما كانت الدول الأعضاء قد تعهدت بالتعاون مع الأمم المتحدة على ضمان اطراد مراعاة حقوق الإنسان والحريات الأساسية واحترامها،</p></recital>
-            <recital eId="cmp_ara__rec_7"><p>ولما كان للإدراك العام لهذه الحقوق والحريات الأهمية الكبرى للوفاء التام بهذا التعهد،</p></recital>
+            <recital eId="cmp_ara__rec_1" GUID="FD2C1B83-D8C2-4258-AAF6-21A197FAD721"><p>لما كان الاعتراف بالكرامة المتأصلة في جميع أعضاء الأسرة البشرية وبحقوقهم المتساوية الثابتة هو أساس الحرية والعدل والسلام في العالم،</p></recital>
+            <recital eId="cmp_ara__rec_2" GUID="07645204-F39A-4FA5-9C08-EA6D3E2336F4"><p>في حين أن تناسي حقوق الإنسان قد أدى إلى أعمال همجية أثارت غضب ضمير البشرية، وظهور عالم يتمتع فيه البشر بحرية الكلام والمعتقد والتحرر من الخوف والعوز قد أعلن أنه أعلى تطلعات من عامة الناس،</p></recital>
+            <recital eId="cmp_ara__rec_3" GUID="491FE7CC-2D65-41C3-BB0F-700E000136D9"><p>ولما كان من الضروري أن يتولى القانون حماية حقوق الإنسان لكيلا يضطر المرء آخر الأمر إلى التمرد على الاستبداد والظلم،</p></recital>
+            <recital eId="cmp_ara__rec_4" GUID="AB4CFF88-E9D0-423B-9B0D-EE3FF95DCF6B"><p>ولما كان من الجوهري تعزيز تنمية العلاقات الودية بين الدول،</p></recital>
+            <recital eId="cmp_ara__rec_5" GUID="F3782F32-DAFF-4A45-A5A9-59C4B5CC98D4"><p>ولما كانت شعوب الأمم المتحدة قد أكدت في الميثاق من جديد إيمانها بحقوق الإنسان الأساسية وبكرامة الفرد وقدره وبما للرجال والنساء من حقوق متساوية وحزمت أمرها على أن تدفع بالرقي الاجتماعي قدماً وأن ترفع مستوى الحياة في جو من الحرية أفسح،</p></recital>
+            <recital eId="cmp_ara__rec_6" GUID="FA301946-4600-4FF3-BE49-872053C9EA05"><p>ولما كانت الدول الأعضاء قد تعهدت بالتعاون مع الأمم المتحدة على ضمان اطراد مراعاة حقوق الإنسان والحريات الأساسية واحترامها،</p></recital>
+            <recital eId="cmp_ara__rec_7" GUID="0189ACB7-3F17-486D-85C7-534147FEE82E"><p>ولما كان للإدراك العام لهذه الحقوق والحريات الأهمية الكبرى للوفاء التام بهذا التعهد،</p></recital>
           </recitals>
           <formula name="enactingFormula">
             <p>فالآن،</p>
@@ -328,174 +328,174 @@
           </formula>
         </preamble>
         <mainBody xml:lang="ar">
-          <article eId="cmp_ara__art_1">
+          <article eId="cmp_ara__art_1" GUID="2164690D-8E6A-4524-9740-C684E1FEC0EF">
             <num>المادة 1</num>
             <content>
               <p>يولد جميع الناس أحراراً ومتساوين في الكرامة والحقوق. وهم قد وهبوا العقل والوجدان وعليهم أن يعاملوا بعضهم بعضاً بروح الإخاء.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_2">
+          <article eId="cmp_ara__art_2" GUID="16BC18B2-B098-4E3A-87FE-2E7BED91423F">
             <num>المادة 2</num>
             <content>
               <p>لكلِّ إنسان حقُّ التمتُّع بجميع الحقوق والحرِّيات المذكورة في هذا الإعلان، دونما تمييز من أيِّ نوع، ولا سيما التمييز بسبب العنصر، أو اللون، أو الجنس، أو اللغة، أو الدِّين، أو الرأي سياسيًّا وغير سياسي، أو الأصل الوطني أو الاجتماعي، أو الثروة، أو المولد، أو أيِّ وضع آخر. وفضلاً عن ذلك لا يجوز التمييزُ علي أساس الوضع السياسي أو القانوني أو الدولي للبلد أو الإقليم الذي ينتمي إليه الشخص، سواء أكان مستقلاًّ أو موضوعًا تحت الوصاية أو غير متمتِّع بالحكم الذاتي أم خاضعًا لأيِّ قيد آخر على سيادته.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_3">
+          <article eId="cmp_ara__art_3" GUID="06288812-3374-413D-AAA8-1C10AA91CA37">
             <num>المادة 3</num>
             <content>
               <p>لكلِّ فرد الحقُّ في الحياة والحرِّية وفي الأمان على شخصه.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_4">
+          <article eId="cmp_ara__art_4" GUID="FA842C71-586E-4AD0-B5CC-DBFB5A79DABB">
             <num>المادة 4</num>
             <content>
               <p>لا يجوز استرقاقُ أحد أو استعبادُه، ويُحظر الرق والاتجار بالرقيق بجميع صورهما.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_5">
+          <article eId="cmp_ara__art_5" GUID="711EFB09-9CDC-4B2E-B1C6-44FB07F7DF0B">
             <num>المادة 5</num>
             <content>
               <p>لا يجوز إخضاعُ أحد للتعذيب ولا للمعاملة أو العقوبة القاسية أو اللاإنسانية أو الحاطَّة بالكرامة.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_6">
+          <article eId="cmp_ara__art_6" GUID="6A3747D6-2A12-4C4B-897B-A8291C28C807">
             <num>المادة 6</num>
             <content>
               <p>لكلِّ إنسان، في كلِّ مكان، الحقُّ بأن يُعترَف له بالشخصية القانونية.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_7">
+          <article eId="cmp_ara__art_7" GUID="78CD7017-5D41-4CB8-8238-5B5DB80E0C17">
             <num>المادة 7</num>
             <content>
               <p>الناسُ جميعًا سواءٌ أمام القانون، وهم يتساوون في حقِّ التمتُّع بحماية القانون دونما تمييز، كما يتساوون في حقِّ التمتُّع بالحماية من أيِّ تمييز ينتهك هذا الإعلانَ ومن أيِّ تحريض على مثل هذا التمييز.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_8">
+          <article eId="cmp_ara__art_8" GUID="952DF5B8-954E-468B-88F4-D57FADF18286">
             <num>المادة 8</num>
             <content>
               <p>لكلِّ شخص حقُّ اللجوء إلى المحاكم الوطنية المختصَّة لإنصافه الفعلي من أيَّة أعمال تَنتهك الحقوقَ الأساسيةَ التي يمنحها إيَّاه الدستورُ أو القانونُ.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_9">
+          <article eId="cmp_ara__art_9" GUID="E43C0C71-55BB-4656-92AE-61464C6D022C">
             <num>المادة 9</num>
             <content>
               <p>لا يجوز اعتقالُ أيِّ إنسان أو حجزُه أو نفيُه تعسُّفًا.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_10">
+          <article eId="cmp_ara__art_10" GUID="BD5F69E6-A9DF-4AD7-8E31-8FDBE2F3621A">
             <num>المادة 10</num>
             <content>
               <p>لكلِّ إنسان، على قدم المساواة التامة مع الآخرين، الحقُّ في أن تَنظر قضيتَه محكمةٌ مستقلَّةٌ ومحايدةٌ، نظرًا مُنصفًا وعلنيًّا، للفصل في حقوقه والتزاماته وفى أيَّة تهمة جزائية تُوجَّه إليه.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_11">
+          <article eId="cmp_ara__art_11" GUID="CFFD9217-94CF-43F2-882C-E8CAFEC8BD71">
             <num>المادة 11</num>
-            <paragraph eId="cmp_ara__art_11__para_1"><num>1.</num><content><p>كلُّ شخص متَّهم بجريمة يُعتبَر بريئًا إلى أن يثبت ارتكابُه لها قانونًا في محاكمة علنية تكون قد وُفِّرت له فيها جميعُ الضمانات اللازمة للدفاع عن نفسه.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_11__para_2"><num>2.</num><content><p>لا يُدان أيُّ شخص بجريمة بسبب أيِّ عمل أو امتناع عن عمل لم يكن في حينه يشكِّل جُرمًا بمقتضى القانون الوطني أو الدولي، كما لا تُوقَع عليه أيَّةُ عقوبة أشدَّ من تلك التي كانت ساريةً في الوقت الذي ارتُكب فيه الفعل الجُرمي.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_11__para_1" GUID="170CA500-3B4D-4660-ACD6-695903BFC7F0"><num>1.</num><content><p>كلُّ شخص متَّهم بجريمة يُعتبَر بريئًا إلى أن يثبت ارتكابُه لها قانونًا في محاكمة علنية تكون قد وُفِّرت له فيها جميعُ الضمانات اللازمة للدفاع عن نفسه.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_11__para_2" GUID="6E3F2F2B-EEE6-4ABA-9724-457D1E4DE88A"><num>2.</num><content><p>لا يُدان أيُّ شخص بجريمة بسبب أيِّ عمل أو امتناع عن عمل لم يكن في حينه يشكِّل جُرمًا بمقتضى القانون الوطني أو الدولي، كما لا تُوقَع عليه أيَّةُ عقوبة أشدَّ من تلك التي كانت ساريةً في الوقت الذي ارتُكب فيه الفعل الجُرمي.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_12">
+          <article eId="cmp_ara__art_12" GUID="CE0BA7F4-F11E-4BF4-877F-81642ED23D8E">
             <num>المادة 12</num>
             <content>
               <p>لا يجوز تعريضُ أحد لتدخُّل تعسُّفي في حياته الخاصة أو في شؤون أسرته أو مسكنه أو مراسلاته، ولا لحملات تمسُّ شرفه وسمعته. ولكلِّ شخص حقٌّ في أن يحميه القانونُ من مثل ذلك التدخُّل أو تلك الحملات.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_13">
+          <article eId="cmp_ara__art_13" GUID="6C806CF9-714F-4E4E-87BD-37669952E1AA">
             <num>المادة 13</num>
-            <paragraph eId="cmp_ara__art_13__para_1"><num>1.</num><content><p>لكلِّ فرد حقٌّ في حرِّية التنقُّل وفي اختيار محلِّ إقامته داخل حدود الدولة.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_13__para_2"><num>2.</num><content><p>لكلِّ فرد حقٌّ في مغادرة أيِّ بلد، بما في ذلك بلده، وفي العودة إلى بلده.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_13__para_1" GUID="0AF24BE9-DB70-47CB-BAA1-2D6A203DE041"><num>1.</num><content><p>لكلِّ فرد حقٌّ في حرِّية التنقُّل وفي اختيار محلِّ إقامته داخل حدود الدولة.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_13__para_2" GUID="68A9E618-4F81-4E57-9B36-0218930453CD"><num>2.</num><content><p>لكلِّ فرد حقٌّ في مغادرة أيِّ بلد، بما في ذلك بلده، وفي العودة إلى بلده.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_14">
+          <article eId="cmp_ara__art_14" GUID="0F12DD42-072F-43D2-B0DC-0467E2B53D81">
             <num>المادة 14</num>
-            <paragraph eId="cmp_ara__art_14__para_1"><num>1.</num><content><p>لكلِّ فرد حقُّ التماس ملجأ في بلدان أخرى والتمتُّع به خلاصًا من الاضطهاد.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_14__para_2"><num>2.</num><content><p>لا يمكن التذرُّعُ بهذا الحقِّ إذا كانت هناك ملاحقةٌ ناشئةٌ بالفعل عن جريمة غير سياسية أو عن أعمال تناقض مقاصدَ الأمم المتحدة ومبادئها.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_14__para_1" GUID="FD4D0362-F156-4CF2-AF8D-A434A735C6F2"><num>1.</num><content><p>لكلِّ فرد حقُّ التماس ملجأ في بلدان أخرى والتمتُّع به خلاصًا من الاضطهاد.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_14__para_2" GUID="186E5A24-46F9-474F-897C-DF17C7914284"><num>2.</num><content><p>لا يمكن التذرُّعُ بهذا الحقِّ إذا كانت هناك ملاحقةٌ ناشئةٌ بالفعل عن جريمة غير سياسية أو عن أعمال تناقض مقاصدَ الأمم المتحدة ومبادئها.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_15">
+          <article eId="cmp_ara__art_15" GUID="9182B0FB-1837-438F-8D5E-005A219E35E0">
             <num>المادة 15</num>
-            <paragraph eId="cmp_ara__art_15__para_1"><num>1.</num><content><p>لكل فرد حق التمتع بجنسية ما.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_15__para_2"><num>2.</num><content><p>لا يجوز، تعسُّفًا، حرمانُ أيِّ شخص من جنسيته ولا من حقِّه في تغيير جنسيته.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_15__para_1" GUID="46612A6B-2F02-47DF-B86C-D65E9E07BDF4"><num>1.</num><content><p>لكل فرد حق التمتع بجنسية ما.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_15__para_2" GUID="F51A1523-63A8-43FD-9D41-6C0247D7973C"><num>2.</num><content><p>لا يجوز، تعسُّفًا، حرمانُ أيِّ شخص من جنسيته ولا من حقِّه في تغيير جنسيته.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_16">
+          <article eId="cmp_ara__art_16" GUID="B1EEB6FD-C551-4532-BEEB-B1835A485BA6">
             <num>المادة 16</num>
-            <paragraph eId="cmp_ara__art_16__para_1"><num>1.</num><content><p>للرجل والمرأة، متى أدركا سنَّ البلوغ، حقُّ التزوُّج وتأسيس أسرة، دون أيِّ قيد بسبب العِرق أو الجنسية أو الدِّين. وهما متساويان في الحقوق لدى التزوُّج وخلال قيام الزواج ولدى انحلاله.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_16__para_2"><num>2.</num><content><p>ا يُعقَد الزواجُ إلاَّ برضا الطرفين المزمع زواجهما رضاءً كاملً لا إكراهَ فيه.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_16__para_3"><num>3.</num><content><p>الأسرةُ هي الخليةُ الطبيعيةُ والأساسيةُ في المجتمع، ولها حقُّ التمتُّع بحماية المجتمع والدولة.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_16__para_1" GUID="FB58364F-76F1-4FEE-803D-53558718DF0E"><num>1.</num><content><p>للرجل والمرأة، متى أدركا سنَّ البلوغ، حقُّ التزوُّج وتأسيس أسرة، دون أيِّ قيد بسبب العِرق أو الجنسية أو الدِّين. وهما متساويان في الحقوق لدى التزوُّج وخلال قيام الزواج ولدى انحلاله.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_16__para_2" GUID="492E2E3E-1A72-49AB-BD22-2A699AC6025B"><num>2.</num><content><p>ا يُعقَد الزواجُ إلاَّ برضا الطرفين المزمع زواجهما رضاءً كاملً لا إكراهَ فيه.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_16__para_3" GUID="BA16824C-627D-4324-87D3-EE6FC8C3EBB0"><num>3.</num><content><p>الأسرةُ هي الخليةُ الطبيعيةُ والأساسيةُ في المجتمع، ولها حقُّ التمتُّع بحماية المجتمع والدولة.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_17">
+          <article eId="cmp_ara__art_17" GUID="55B345A3-5549-42C6-B259-8A0FF100A64C">
             <num>المادة 17</num>
-            <paragraph eId="cmp_ara__art_17__para_1"><num>1.</num><content><p>لكلِّ فرد حقٌّ في التملُّك، بمفرده أو بالاشتراك مع غيره.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_17__para_2"><num>2.</num><content><p>لا يجوز تجريدُ أحدٍ من مُلكه تعسُّفًا.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_17__para_1" GUID="5C103C0A-3631-4E26-AE22-031D79BAB65D"><num>1.</num><content><p>لكلِّ فرد حقٌّ في التملُّك، بمفرده أو بالاشتراك مع غيره.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_17__para_2" GUID="665E776D-59AE-480A-8519-2AAA96E10A06"><num>2.</num><content><p>لا يجوز تجريدُ أحدٍ من مُلكه تعسُّفًا.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_18">
+          <article eId="cmp_ara__art_18" GUID="7120BA29-C246-4EF1-8D20-15FFFBDD0EBD">
             <num>المادة 18</num>
             <content>
               <p>لكلِّ شخص حقٌّ في حرِّية الفكر والوجدان والدِّين، ويشمل هذا الحقُّ حرِّيته في تغيير دينه أو معتقده، وحرِّيته في إظهار دينه أو معتقده بالتعبُّد وإقامة الشعائر والممارسة والتعليم، بمفرده أو مع جماعة، وأمام الملأ أو على حدة.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_19">
+          <article eId="cmp_ara__art_19" GUID="3CB097EC-5C83-4AF5-AD08-33963791A3B2">
             <num>المادة 19</num>
             <content>
               <p>لكلِّ شخص حقُّ التمتُّع بحرِّية الرأي والتعبير، ويشمل هذا الحقُّ حرِّيته في اعتناق الآراء دون مضايقة، وفي التماس الأنباء والأفكار وتلقِّيها ونقلها إلى الآخرين، بأيَّة وسيلة ودونما اعتبار للحدود.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_20">
+          <article eId="cmp_ara__art_20" GUID="D3747916-4E04-4297-9B89-19354930AE63">
             <num>المادة 20</num>
-            <paragraph eId="cmp_ara__art_20__para_1"><num>1.</num><content><p>لكلِّ شخص حقٌّ في حرِّية الاشتراك في الاجتماعات والجمعيات السلمية.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_20__para_2"><num>2.</num><content><p>لا يجوز إرغامُ أحدٍ على الانتماء إلى جمعية ما.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_20__para_1" GUID="88479905-F4E0-4E97-A98A-F32CA1558A22"><num>1.</num><content><p>لكلِّ شخص حقٌّ في حرِّية الاشتراك في الاجتماعات والجمعيات السلمية.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_20__para_2" GUID="928723C9-B5E6-4272-9D05-F9E836EE84C0"><num>2.</num><content><p>لا يجوز إرغامُ أحدٍ على الانتماء إلى جمعية ما.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_21">
+          <article eId="cmp_ara__art_21" GUID="37B272FB-FA8E-4317-87E2-662EFC801CF9">
             <num>المادة 21</num>
-            <paragraph eId="cmp_ara__art_21__para_1"><num>1.</num><content><p>لكلِّ شخص حقُّ المشاركة في إدارة الشؤون العامة لبلده، إمَّا مباشرةً وإمَّا بواسطة ممثِّلين يُختارون في حرِّية.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_21__para_2"><num>2.</num><content><p>لكلِّ شخص، بالتساوي مع الآخرين، حقُّ تقلُّد الوظائف العامَّة في بلده.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_21__para_3"><num>3.</num><content><p>إرادةُ الشعب هي مناطُ سلطة الحكم، ويجب أن تتجلىَّ هذه الإرادة من خلال انتخابات نزيهة تجرى دوريًّا بالاقتراع العام وعلى قدم المساواة بين الناخبين وبالتصويت السرِّي أو بإجراء مكافئ من حيث ضمان حرِّية التصويت.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_21__para_1" GUID="643EAFA2-0810-4213-90F1-1E1E5D729511"><num>1.</num><content><p>لكلِّ شخص حقُّ المشاركة في إدارة الشؤون العامة لبلده، إمَّا مباشرةً وإمَّا بواسطة ممثِّلين يُختارون في حرِّية.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_21__para_2" GUID="ADE3D886-94C7-4E89-BB53-70C4AF279FE1"><num>2.</num><content><p>لكلِّ شخص، بالتساوي مع الآخرين، حقُّ تقلُّد الوظائف العامَّة في بلده.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_21__para_3" GUID="3793091D-0023-43F9-B134-D521AA33012F"><num>3.</num><content><p>إرادةُ الشعب هي مناطُ سلطة الحكم، ويجب أن تتجلىَّ هذه الإرادة من خلال انتخابات نزيهة تجرى دوريًّا بالاقتراع العام وعلى قدم المساواة بين الناخبين وبالتصويت السرِّي أو بإجراء مكافئ من حيث ضمان حرِّية التصويت.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_22">
+          <article eId="cmp_ara__art_22" GUID="C80B3B56-EB42-4357-9EEF-22E70C0E0C04">
             <num>المادة 22</num>
             <content>
               <p>لكلِّ شخص، بوصفه عضوًا في المجتمع، حقٌّ في الضمان الاجتماعي، ومن حقِّه أن تُوفَّر له، من خلال المجهود القومي والتعاون الدولي، وبما يتَّفق مع هيكل كلِّ دولة ومواردها، الحقوقُ الاقتصاديةُ والاجتماعيةُ والثقافيةُ التي لا غنى عنها لكرامته ولتنامي شخصيته في حرِّية.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_23">
+          <article eId="cmp_ara__art_23" GUID="7313F64A-90A4-42DD-98AE-7FE14718A060">
             <num>المادة 23</num>
-            <paragraph eId="cmp_ara__art_23__para_1"><num>1.</num><content><p>لكلِّ شخص حقُّ العمل، وفي حرِّية اختيار عمله، وفي شروط عمل عادلة ومُرضية، وفي الحماية من البطالة.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_23__para_2"><num>2.</num><content><p>لجميع الأفراد، دون أيِّ تمييز، الحقُّ في أجٍر متساوٍ على العمل المتساوي.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_23__para_3"><num>3.</num><content><p>لكلِّ فرد يعمل حقٌّ في مكافأة عادلة ومُرضية تكفل له ولأسرته عيشةً لائقةً بالكرامة البشرية، وتُستكمَل، عند الاقتضاء، بوسائل أخرى للحماية الاجتماعية.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_23__para_4"><num>4.</num><content><p>لكلِّ شخص حقُّ إنشاء النقابات مع آخرين والانضمام إليها من أجل حماية مصالحه.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_23__para_1" GUID="33E6B4B3-B86D-4311-AA9E-B412C1A46AD3"><num>1.</num><content><p>لكلِّ شخص حقُّ العمل، وفي حرِّية اختيار عمله، وفي شروط عمل عادلة ومُرضية، وفي الحماية من البطالة.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_23__para_2" GUID="B88CE6A9-B06A-420E-8549-4F5E635FC0E0"><num>2.</num><content><p>لجميع الأفراد، دون أيِّ تمييز، الحقُّ في أجٍر متساوٍ على العمل المتساوي.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_23__para_3" GUID="195B3D35-033A-4B99-BBD0-31DB0AF55FF9"><num>3.</num><content><p>لكلِّ فرد يعمل حقٌّ في مكافأة عادلة ومُرضية تكفل له ولأسرته عيشةً لائقةً بالكرامة البشرية، وتُستكمَل، عند الاقتضاء، بوسائل أخرى للحماية الاجتماعية.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_23__para_4" GUID="1E65DFE5-C338-4DEE-B457-1BAE014FF887"><num>4.</num><content><p>لكلِّ شخص حقُّ إنشاء النقابات مع آخرين والانضمام إليها من أجل حماية مصالحه.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_24">
+          <article eId="cmp_ara__art_24" GUID="BE1FF8BC-272C-4185-BEA4-D00F36139213">
             <num>المادة 24</num>
             <content>
               <p>لكلِّ شخص حقٌّ في الراحة وأوقات الفراغ، وخصوصًا في تحديد معقول لساعات العمل وفي إجازات دورية مأجورة.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_25">
+          <article eId="cmp_ara__art_25" GUID="EB1CDE39-BC30-4D26-9475-4182598C58E3">
             <num>المادة 25</num>
-            <paragraph eId="cmp_ara__art_25__para_1"><num>1.</num><content><p>لكلِّ شخص حقٌّ في مستوى معيشة يكفي لضمان الصحة والرفاهة له ولأسرته، وخاصَّةً على صعيد المأكل والملبس والمسكن والعناية الطبية وصعيد الخدمات الاجتماعية الضرورية، وله الحقُّ في ما يأمن به الغوائل في حالات البطالة أو المرض أو العجز أو الترمُّل أو الشيخوخة أو غير ذلك من الظروف الخارجة عن إرادته والتي تفقده أسباب عيشه.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_25__para_2"><num>2.</num><content><p>للأمومة والطفولة حقٌّ في رعاية ومساعدة خاصَّتين. ولجميع الأطفال حقُّ التمتُّع بذات الحماية الاجتماعية سواء وُلِدوا في إطار الزواج أو خارج هذا الإطار.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_25__para_1" GUID="F722638B-9B76-4859-8FFE-51AE0D9B7A10"><num>1.</num><content><p>لكلِّ شخص حقٌّ في مستوى معيشة يكفي لضمان الصحة والرفاهة له ولأسرته، وخاصَّةً على صعيد المأكل والملبس والمسكن والعناية الطبية وصعيد الخدمات الاجتماعية الضرورية، وله الحقُّ في ما يأمن به الغوائل في حالات البطالة أو المرض أو العجز أو الترمُّل أو الشيخوخة أو غير ذلك من الظروف الخارجة عن إرادته والتي تفقده أسباب عيشه.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_25__para_2" GUID="F5E8FED5-8BF9-4B41-BB5F-0A446D074F8D"><num>2.</num><content><p>للأمومة والطفولة حقٌّ في رعاية ومساعدة خاصَّتين. ولجميع الأطفال حقُّ التمتُّع بذات الحماية الاجتماعية سواء وُلِدوا في إطار الزواج أو خارج هذا الإطار.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_26">
+          <article eId="cmp_ara__art_26" GUID="DA542DBD-5DCF-4C4E-8E0F-2F9C77A97AA0">
             <num>المادة 26</num>
-            <paragraph eId="cmp_ara__art_26__para_1"><num>1.</num><content><p>كلِّ شخص حقٌّ في التعليم. ويجب أن يُوفَّر التعليمُ مجَّانًا، على الأقل في مرحلتيه الابتدائية والأساسية. ويكون التعليمُ الابتدائيُّ إلزاميًّا. ويكون التعليمُ الفنِّي والمهني متاحًا للعموم. ويكون التعليمُ العالي مُتاحًا للجميع تبعًا لكفاءتهم.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_26__para_2"><num>2.</num><content><p>يجب أن يستهدف التعليمُ التنميةَ الكاملةَ لشخصية الإنسان وتعزيز احترام حقوق الإنسان والحريات الأساسية. كما يجب أن يعزِّز التفاهمَ والتسامحَ والصداقةَ بين جميع الأمم وجميع الفئات العنصرية أو الدينية، وأن يؤيِّد الأنشطةَ التي تضطلع بها الأممُ المتحدةُ لحفظ السلام.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_26__para_3"><num>3.</num><content><p>للآباء، على سبيل الأولوية، حقُّ اختيار نوع التعليم الذي يُعطى لأولادهم.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_26__para_1" GUID="D5C5F8BF-DC56-4913-BF72-B5EBFD5C4F03"><num>1.</num><content><p>كلِّ شخص حقٌّ في التعليم. ويجب أن يُوفَّر التعليمُ مجَّانًا، على الأقل في مرحلتيه الابتدائية والأساسية. ويكون التعليمُ الابتدائيُّ إلزاميًّا. ويكون التعليمُ الفنِّي والمهني متاحًا للعموم. ويكون التعليمُ العالي مُتاحًا للجميع تبعًا لكفاءتهم.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_26__para_2" GUID="2456A60E-3411-478F-896B-BA9F3A959241"><num>2.</num><content><p>يجب أن يستهدف التعليمُ التنميةَ الكاملةَ لشخصية الإنسان وتعزيز احترام حقوق الإنسان والحريات الأساسية. كما يجب أن يعزِّز التفاهمَ والتسامحَ والصداقةَ بين جميع الأمم وجميع الفئات العنصرية أو الدينية، وأن يؤيِّد الأنشطةَ التي تضطلع بها الأممُ المتحدةُ لحفظ السلام.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_26__para_3" GUID="B0E40447-583F-4F70-BA0D-E4099D043C4A"><num>3.</num><content><p>للآباء، على سبيل الأولوية، حقُّ اختيار نوع التعليم الذي يُعطى لأولادهم.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_27">
+          <article eId="cmp_ara__art_27" GUID="037411A9-6781-4C61-B358-C70BC7067357">
             <num>المادة 27</num>
-            <paragraph eId="cmp_ara__art_27__para_1"><num>1.</num><content><p>لكلِّ شخص حقُّ المشاركة الحرَّة في حياة المجتمع الثقافية، وفي الاستمتاع بالفنون، والإسهام في التقدُّم العلمي وفي الفوائد التي تنجم عنه.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_27__para_2"><num>2.</num><content><p>لكلِّ شخص حقٌّ في حماية المصالح المعنوية والمادية المترتِّبة على أيِّ إنتاج علمي أو أدبي أو فنِّي من صنعه .</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_27__para_1" GUID="4A707927-E5AE-4211-8808-0151BABA400E"><num>1.</num><content><p>لكلِّ شخص حقُّ المشاركة الحرَّة في حياة المجتمع الثقافية، وفي الاستمتاع بالفنون، والإسهام في التقدُّم العلمي وفي الفوائد التي تنجم عنه.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_27__para_2" GUID="732DD358-3009-4819-ACF8-5D620DB2A030"><num>2.</num><content><p>لكلِّ شخص حقٌّ في حماية المصالح المعنوية والمادية المترتِّبة على أيِّ إنتاج علمي أو أدبي أو فنِّي من صنعه .</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_28">
+          <article eId="cmp_ara__art_28" GUID="4F3D6170-691B-418F-9236-681572E9786C">
             <num>المادة 28</num>
             <content>
               <p>لكل فرد الحق في نظام اجتماعي ودولي يمكن أن تتحقق فيه الحقوق والحريات المنصوص عليها في هذا الإعلان بالكامل.</p>
             </content>
           </article>
-          <article eId="cmp_ara__art_29">
+          <article eId="cmp_ara__art_29" GUID="1A3FB654-8290-41C3-BB79-E9C44AFA8599">
             <num>المادة 29</num>
-            <paragraph eId="cmp_ara__art_29__para_1"><num>1.</num><content><p>على كلِّ فرد واجباتٌ إزاء الجماعة، التي فيها وحدها يمكن أن تنمو شخصيته النمو الحر الكامل.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_29__para_2"><num>2.</num><content><p>لا يُخضع أيُّ فرد، في ممارسة حقوقه وحرِّياته، إلاَّ للقيود التي يقرِّرها القانونُ مستهدفًا منها، حصرًا، ضمانَ الاعتراف الواجب بحقوق وحرِّيات الآخرين واحترامها، والوفاءَ بالعادل من مقتضيات الفضيلة والنظام العام ورفاه الجميع في مجتمع ديمقراطي.</p></content></paragraph>
-            <paragraph eId="cmp_ara__art_29__para_3"><num>3.</num><content><p>لا يجوز في أيِّ حال أن تُمارَس هذه الحقوقُ على نحو يناقض مقاصدَ الأمم المتحدة ومبادئها.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_29__para_1" GUID="C7C1BCC7-0DA6-44A3-B8FC-2AEED0805F9B"><num>1.</num><content><p>على كلِّ فرد واجباتٌ إزاء الجماعة، التي فيها وحدها يمكن أن تنمو شخصيته النمو الحر الكامل.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_29__para_2" GUID="F444E1C9-4805-4568-8099-E58067097246"><num>2.</num><content><p>لا يُخضع أيُّ فرد، في ممارسة حقوقه وحرِّياته، إلاَّ للقيود التي يقرِّرها القانونُ مستهدفًا منها، حصرًا، ضمانَ الاعتراف الواجب بحقوق وحرِّيات الآخرين واحترامها، والوفاءَ بالعادل من مقتضيات الفضيلة والنظام العام ورفاه الجميع في مجتمع ديمقراطي.</p></content></paragraph>
+            <paragraph eId="cmp_ara__art_29__para_3" GUID="7E6CC034-92A0-4BAE-8855-17D8F1E58097"><num>3.</num><content><p>لا يجوز في أيِّ حال أن تُمارَس هذه الحقوقُ على نحو يناقض مقاصدَ الأمم المتحدة ومبادئها.</p></content></paragraph>
           </article>
-          <article eId="cmp_ara__art_30">
+          <article eId="cmp_ara__art_30" GUID="7A94F433-4BCD-4740-AB72-8367EE7D5534">
             <num>المادة 30</num>
             <content>
               <p>ليس في هذا الإعلان أيُّ نصٍّ يجوز تأويله على نحو يفيد انطواءه على تخويل أيَّة دولة أو جماعة، أو أيِّ فرد، أيَّ حقٍّ في القيام بأيِّ نشاط أو بأيِّ فعل يهدف إلى هدم أيٍّ من الحقوق والحرِّيات المنصوص عليها فيه.</p>
@@ -504,7 +504,7 @@
         </mainBody>
       </statement>
       </component>
-      <component eId="cmp_zho">
+      <component eId="cmp_zho" GUID="32433A18-DA60-4DC5-B6B7-7578E90CE560">
       <statement name="declaration" contains="originalVersion">
         <meta>
           <identification source="#gv_zho">
@@ -533,25 +533,25 @@
             </FRBRManifestation>
           </identification>
           <references source="#gv_zho">
-            <TLCOrganization eId="unga_zho" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
-            <TLCPerson eId="gv_zho" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-            <TLCRole eId="author_zho" href="/ontology/role/author" showAs="Author"/>
-            <TLCRole eId="editor_zho" href="/ontology/role/editor" showAs="Editor"/>
+            <TLCOrganization eId="unga_zho" GUID="20599B0D-C227-4D0A-94AB-A3E2CB8573F4" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
+            <TLCPerson eId="gv_zho" GUID="2C41CF3F-EB24-44A2-9344-6359BBE34DEE" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+            <TLCRole eId="author_zho" GUID="281E2BF4-8805-4249-8D13-CB7451FB7874" href="/ontology/role/author" showAs="Author"/>
+            <TLCRole eId="editor_zho" GUID="BFC0640F-73F2-4B97-88B1-0DFE09B380A4" href="/ontology/role/editor" showAs="Editor"/>
           </references>
         </meta>
         <preface xml:lang="zh">
           <p class="title"><docTitle>世界人权宣言</docTitle></p>
         </preface>
         <preamble xml:lang="zh">
-          <container name="preambleHeading" eId="cmp_zho__pre"><p class="preHead">序言</p></container>
+          <container name="preambleHeading" eId="cmp_zho__pre" GUID="5AA73451-D6DF-4DE0-BBBE-6524A2B3BCB3"><p class="preHead">序言</p></container>
           <recitals>
-            <recital eId="cmp_zho__rec_1"><p>鉴于对人类家庭所有成员的固有尊严及其平等的和不移的权利的承认，乃是世界自由、正义与和平的基础，</p></recital>
-            <recital eId="cmp_zho__rec_2"><p>鉴于对人权的无视和侮蔑已发展为野蛮暴行，这些暴行玷污了人类的良心，而一个人人享有言论和信仰自由并免予恐惧和匮乏的世界的来临，已被宣布为普通人民的最高愿望，</p></recital>
-            <recital eId="cmp_zho__rec_3"><p>鉴于为使人类不致迫不得已铤而走险对暴政和压迫进行反叛，有必要使人权受法治的保护，</p></recital>
-            <recital eId="cmp_zho__rec_4"><p>鉴于有必要促进各国间友好关系的发展，</p></recital>
-            <recital eId="cmp_zho__rec_5"><p>鉴于各联合国国家的人民已在联合国宪章中重申他们对基本人权、人格尊严和价值以及男女平等权利的信念，并决心促成较大自由中的社会进步和生活水平的改善，</p></recital>
-            <recital eId="cmp_zho__rec_6"><p>鉴于各会员国业已誓愿同联合国合作以促进对人权和基本自由的普遍尊重和遵行，</p></recital>
-            <recital eId="cmp_zho__rec_7"><p>鉴于对这些权利和自由的普遍了解对于这个誓愿的充分实现具有很大的重要性，</p></recital>
+            <recital eId="cmp_zho__rec_1" GUID="BCCE664F-D4BA-436D-8CF8-FE3ABCCE0D0F"><p>鉴于对人类家庭所有成员的固有尊严及其平等的和不移的权利的承认，乃是世界自由、正义与和平的基础，</p></recital>
+            <recital eId="cmp_zho__rec_2" GUID="BA08A23B-DE48-4ED9-9F4B-6996585C7ABB"><p>鉴于对人权的无视和侮蔑已发展为野蛮暴行，这些暴行玷污了人类的良心，而一个人人享有言论和信仰自由并免予恐惧和匮乏的世界的来临，已被宣布为普通人民的最高愿望，</p></recital>
+            <recital eId="cmp_zho__rec_3" GUID="90AE5C3B-D629-416B-A22F-779605940185"><p>鉴于为使人类不致迫不得已铤而走险对暴政和压迫进行反叛，有必要使人权受法治的保护，</p></recital>
+            <recital eId="cmp_zho__rec_4" GUID="4D83C5E3-DEB5-4A3B-84CD-4DC45A9040F0"><p>鉴于有必要促进各国间友好关系的发展，</p></recital>
+            <recital eId="cmp_zho__rec_5" GUID="6329B507-D18E-4585-8770-214E72FAFAA1"><p>鉴于各联合国国家的人民已在联合国宪章中重申他们对基本人权、人格尊严和价值以及男女平等权利的信念，并决心促成较大自由中的社会进步和生活水平的改善，</p></recital>
+            <recital eId="cmp_zho__rec_6" GUID="78047242-4A7D-4904-9E46-D44548AAADFF"><p>鉴于各会员国业已誓愿同联合国合作以促进对人权和基本自由的普遍尊重和遵行，</p></recital>
+            <recital eId="cmp_zho__rec_7" GUID="7FD30C94-99F9-4B05-9734-60A5750AA075"><p>鉴于对这些权利和自由的普遍了解对于这个誓愿的充分实现具有很大的重要性，</p></recital>
           </recitals>
           <formula name="enactingFormula">
             <p>因此现在，</p>
@@ -560,174 +560,174 @@
           </formula>
         </preamble>
         <mainBody xml:lang="zh">
-          <article eId="cmp_zho__art_1">
+          <article eId="cmp_zho__art_1" GUID="62F1C535-A842-4D2F-9742-463A64F12185">
             <num>第一条</num>
             <content>
               <p>人人生而自由，在尊严和权利上一律平等。他们赋有理性和良心，并应以兄弟关系的精神相对待。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_2">
+          <article eId="cmp_zho__art_2" GUID="96653A37-A5E0-456E-817C-3B9EADFF64C9">
             <num>第二条</num>
             <content>
               <p>人人有资格享有本宣言所载的一切权利和自由，不分种族、肤色、性别、语言、宗教、政治或其他见解、国籍或社会出身、财产、出生或其他身分等任何区别。 并且不得因一人所属的国家或领土的政治的、行政的或者国际的地位之不同而有所区别，无论该领土是独立领土、托管领土、非自治领土或者处于其他任何主权受限制的情况之下。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_3">
+          <article eId="cmp_zho__art_3" GUID="8C9F77F1-808C-4F1A-B286-523149C349F6">
             <num>第三条</num>
             <content>
               <p>人人有权享有生命、自由和人身安全。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_4">
+          <article eId="cmp_zho__art_4" GUID="9C6D0611-D2C5-48B5-87D4-91FCC3993F8F">
             <num>第四条</num>
             <content>
               <p>任何人不得使为奴隶或奴役；一切形式的奴隶制度和奴隶买卖，均应予以禁止。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_5">
+          <article eId="cmp_zho__art_5" GUID="7DB8C02A-A04D-4A06-A052-DB37176F42D2">
             <num>第五条</num>
             <content>
               <p>任何人不得加以酷刑，或施以残忍的、不人道的或侮辱性的待遇或刑罚。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_6">
+          <article eId="cmp_zho__art_6" GUID="6C30E37F-AD66-40CB-852E-997D8469BA90">
             <num>第六条</num>
             <content>
               <p>人人在任何地方有权被承认在法律前的人格。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_7">
+          <article eId="cmp_zho__art_7" GUID="F038608F-61E7-4DE9-A2EC-271572E6889F">
             <num>第七条</num>
             <content>
               <p>法律之前人人平等，并有权享受法律的平等保护，不受任何歧视。人人有权享受平等保护，以免受违反本宣言的任何歧视行为以及煽动这种歧视的任何行为之害。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_8">
+          <article eId="cmp_zho__art_8" GUID="3461B998-F89D-4874-A45B-CA1677E4266A">
             <num>第八条</num>
             <content>
               <p>任何人当宪法或法律所赋予他的基本权利遭受侵害时，有权由合格的国家法庭对这种侵害行为作有效的补救。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_9">
+          <article eId="cmp_zho__art_9" GUID="82979D92-4042-46BC-9AFB-EF413C68B9C0">
             <num>第九条</num>
             <content>
               <p>任何人不得加以任意逮捕、拘禁或放逐。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_10">
+          <article eId="cmp_zho__art_10" GUID="1D6FE935-B78D-4BB7-8D73-CFECDE60FDF0">
             <num>第十条</num>
             <content>
               <p>人人完全平等地有权由一个独立而无偏倚的法庭进行公正的和公开的审讯，以确定他的权利和义务并判定对他提出的任何刑事指控。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_11">
+          <article eId="cmp_zho__art_11" GUID="04A28AC2-D111-48F2-8037-132E5F9D4FCD">
             <num>第十一条</num>
-            <paragraph eId="cmp_zho__art_11__para_1"><num>㈠</num><content><p>凡受刑事控告者，在未经获得辩护上所需的一切保证的公开审判而依法证实有罪以前，有权被视为无罪。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_11__para_2"><num>㈡</num><content><p>任何人的任何行为或不行为，在其发生时依国家法或国际法均不构成刑事罪者，不得被判为犯有刑事罪。刑罚不得重于犯罪时适用的法律规定。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_11__para_1" GUID="A0CAAFE9-1B55-4E25-99FD-7045CA3B4FB9"><num>㈠</num><content><p>凡受刑事控告者，在未经获得辩护上所需的一切保证的公开审判而依法证实有罪以前，有权被视为无罪。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_11__para_2" GUID="D9DAACDC-358A-447D-859A-CBE85DFDC323"><num>㈡</num><content><p>任何人的任何行为或不行为，在其发生时依国家法或国际法均不构成刑事罪者，不得被判为犯有刑事罪。刑罚不得重于犯罪时适用的法律规定。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_12">
+          <article eId="cmp_zho__art_12" GUID="3A2DCC37-F325-4356-8223-476F8BE468EC">
             <num>第十二条</num>
             <content>
               <p>任何人的私生活、家庭、住宅和通信不得任意干涉，他的荣誉和名誉不得加以攻击。人人有权享受法律保护，以免受这种干涉或攻击。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_13">
+          <article eId="cmp_zho__art_13" GUID="B57BE974-0505-45EC-BC57-136F9AD4308D">
             <num>第十三条</num>
-            <paragraph eId="cmp_zho__art_13__para_1"><num>㈠</num><content><p>人人在各国境内有权自由迁徙和居住。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_13__para_2"><num>㈡</num><content><p>人人有权离开任何国家，包括其本国在内，并有权返回他的国家。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_13__para_1" GUID="B618F62C-73E3-43A4-82CD-AA3E1CEFB0FB"><num>㈠</num><content><p>人人在各国境内有权自由迁徙和居住。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_13__para_2" GUID="102137C1-521A-4459-9F69-BA6007A86049"><num>㈡</num><content><p>人人有权离开任何国家，包括其本国在内，并有权返回他的国家。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_14">
+          <article eId="cmp_zho__art_14" GUID="65219B3F-BC21-405B-B3E9-B1B18EC14879">
             <num>第十四条</num>
-            <paragraph eId="cmp_zho__art_14__para_1"><num>㈠</num><content><p>人人有权在其他国家寻求和享受庇护以避免迫害。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_14__para_2"><num>㈡</num><content><p>在真正由于非政治性的罪行或违背联合国的宗旨和原则的行为而被起诉的情况下，不得援用此种权利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_14__para_1" GUID="9D709974-66F5-4312-90D3-2E413CCFAAEB"><num>㈠</num><content><p>人人有权在其他国家寻求和享受庇护以避免迫害。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_14__para_2" GUID="71517617-0247-45CF-A04D-8F7492FDFE0B"><num>㈡</num><content><p>在真正由于非政治性的罪行或违背联合国的宗旨和原则的行为而被起诉的情况下，不得援用此种权利。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_15">
+          <article eId="cmp_zho__art_15" GUID="8BDA529F-8742-4852-A4C4-CB13D7D89491">
             <num>第十五条</num>
-            <paragraph eId="cmp_zho__art_15__para_1"><num>㈠</num><content><p>人人有权享有国籍。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_15__para_2"><num>㈡</num><content><p>任何人的国籍不得任意剥夺，亦不得否认其改变国籍的权利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_15__para_1" GUID="8203BED3-1BD8-489E-B255-669B5430AB01"><num>㈠</num><content><p>人人有权享有国籍。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_15__para_2" GUID="0DEAC29B-C510-4004-890D-BB49A15B103D"><num>㈡</num><content><p>任何人的国籍不得任意剥夺，亦不得否认其改变国籍的权利。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_16">
+          <article eId="cmp_zho__art_16" GUID="51574724-7F1A-4F60-A177-3D3FFA8A8C17">
             <num>第十六条</num>
-            <paragraph eId="cmp_zho__art_16__para_1"><num>㈠</num><content><p>成年男女，不受种族、国籍或宗教的任何限制有权婚嫁和成立家庭。他们在婚姻方面，在结婚期间和在解除婚约时，应有平等的权利。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_16__para_2"><num>㈡</num><content><p>只有经男女双方的自由和完全的同意，才能缔婚。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_16__para_3"><num>㈢</num><content><p>家庭是天然的和基本的社会单元，并应受社会和国家的保护。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_16__para_1" GUID="5561D8FA-2C50-4ECA-B38F-9F8062BF5A87"><num>㈠</num><content><p>成年男女，不受种族、国籍或宗教的任何限制有权婚嫁和成立家庭。他们在婚姻方面，在结婚期间和在解除婚约时，应有平等的权利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_16__para_2" GUID="DB41DE61-BA37-404E-A5EE-08664A67DDE9"><num>㈡</num><content><p>只有经男女双方的自由和完全的同意，才能缔婚。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_16__para_3" GUID="08E75945-DF23-42CA-8CE5-2D7C9402AB94"><num>㈢</num><content><p>家庭是天然的和基本的社会单元，并应受社会和国家的保护。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_17">
+          <article eId="cmp_zho__art_17" GUID="C63984F5-0E1B-48DD-8414-54C70ABDF7A8">
             <num>第十七条</num>
-            <paragraph eId="cmp_zho__art_17__para_1"><num>㈠</num><content><p>人人得有单独的财产所有权以及同他人合有的所有权。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_17__para_2"><num>㈡</num><content><p>任何人的财产不得任意剥夺。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_17__para_1" GUID="EE819816-8173-4E48-99C6-C89253E9C2C5"><num>㈠</num><content><p>人人得有单独的财产所有权以及同他人合有的所有权。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_17__para_2" GUID="289EDFAE-A1E7-4F5F-8D23-100C3F45F78C"><num>㈡</num><content><p>任何人的财产不得任意剥夺。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_18">
+          <article eId="cmp_zho__art_18" GUID="5145088B-C4F0-4977-8A58-1E5BD5F759E0">
             <num>第十八条</num>
             <content>
               <p>人人有思想、良心和宗教自由的权利；此项权利包括改变他的宗教或信仰的自由，以及单独或集体、公开或秘密地以教义、实践、礼拜和戒律表示他的宗教或信仰的自由。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_19">
+          <article eId="cmp_zho__art_19" GUID="DF4F0FAF-3C26-4317-B46C-8F8085FCBDE4">
             <num>第十九条</num>
             <content>
               <p>人人有权享有主张和发表意见的自由；此项权利包括持有主张而不受干涉的自由，和通过任何媒介和不论国界寻求、接受和传递消息和思想的自由。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_20">
+          <article eId="cmp_zho__art_20" GUID="8B492562-0E1B-4418-BE03-D830771CE0E1">
             <num>第二十条</num>
-            <paragraph eId="cmp_zho__art_20__para_1"><num>㈠</num><content><p>人人有权享有和平集会和结社的自由。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_20__para_2"><num>㈡</num><content><p>任何人不得迫使隶属于某一团体。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_20__para_1" GUID="81B874E7-7882-4FCC-893B-C5DAB902FFFE"><num>㈠</num><content><p>人人有权享有和平集会和结社的自由。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_20__para_2" GUID="C5887B73-05D9-415E-957B-36E9EFAE0BCD"><num>㈡</num><content><p>任何人不得迫使隶属于某一团体。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_21">
+          <article eId="cmp_zho__art_21" GUID="CEA3001D-FF12-4ADD-9D5E-BCEBD97F6704">
             <num>第二十一条</num>
-            <paragraph eId="cmp_zho__art_21__para_1"><num>㈠</num><content><p>人人有直接或通过自由选择的代表参与治理本国的权利。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_21__para_2"><num>㈡</num><content><p>人人有平等机会参加本国公务的权利。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_21__para_3"><num>㈢</num><content><p>人民的意志是政府权力的基础；这一意志应以定期的和真正的选举予以表现，而选举应依据普遍和平等的投票权，并以不记名投票或相当的自由投票程序进行。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_21__para_1" GUID="324B3C8F-6630-46C4-B348-8D5E3151276B"><num>㈠</num><content><p>人人有直接或通过自由选择的代表参与治理本国的权利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_21__para_2" GUID="425E76B4-8348-42FE-8DC5-59CC3C7D679A"><num>㈡</num><content><p>人人有平等机会参加本国公务的权利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_21__para_3" GUID="1518B27C-086E-432A-AEE6-A0E644FC23B2"><num>㈢</num><content><p>人民的意志是政府权力的基础；这一意志应以定期的和真正的选举予以表现，而选举应依据普遍和平等的投票权，并以不记名投票或相当的自由投票程序进行。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_22">
+          <article eId="cmp_zho__art_22" GUID="A30859F1-5E3E-47C9-B986-57610F99A992">
             <num>第二十二条</num>
             <content>
               <p>每个人，作为社会的一员，有权享受社会保障，并有权享受他的个人尊严和人格的自由发展所必需的经济、社会和文化方面各种权利的实现，这种实现是通过国家努力和国际合作并依照各国的组织和资源情况。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_23">
+          <article eId="cmp_zho__art_23" GUID="C7C9B43D-F192-47D8-9A08-4D2625DE65C1">
             <num>第二十三条</num>
-            <paragraph eId="cmp_zho__art_23__para_1"><num>㈠</num><content><p>人人有权工作、自由选择职业、享受公正和合适的工作条件并享受免于失业的保障。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_23__para_2"><num>㈡</num><content><p>人人有同工同酬的权利，不受任何歧视。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_23__para_3"><num>㈢</num><content><p>每一个工作的人，有权享受公正和合适的报酬，保证使他本人和家属有一个符合人的尊严的生活条件，必要时并辅以其他方式的社会保障。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_23__para_4"><num>㈣</num><content><p>人人有为维护其利益而组织和参加工会的权利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_23__para_1" GUID="777B11CB-3C51-4BE9-BD96-36CD16807F0B"><num>㈠</num><content><p>人人有权工作、自由选择职业、享受公正和合适的工作条件并享受免于失业的保障。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_23__para_2" GUID="009D5E07-15CB-4E55-99D1-845D461DE98A"><num>㈡</num><content><p>人人有同工同酬的权利，不受任何歧视。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_23__para_3" GUID="D37E7C06-0D43-41C8-B83B-87CF6B359E8D"><num>㈢</num><content><p>每一个工作的人，有权享受公正和合适的报酬，保证使他本人和家属有一个符合人的尊严的生活条件，必要时并辅以其他方式的社会保障。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_23__para_4" GUID="C727A1B6-23C1-48D4-86FC-59C447F627ED"><num>㈣</num><content><p>人人有为维护其利益而组织和参加工会的权利。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_24">
+          <article eId="cmp_zho__art_24" GUID="E9BFFE5C-7184-4F27-A29A-E4D1954A2AFE">
             <num>第二十四条</num>
             <content>
               <p>人人有享有休息和闲暇的权利，包括工作时间有合理限制和定期给薪休假的权利。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_25">
+          <article eId="cmp_zho__art_25" GUID="80F1751D-94E5-43D4-80B0-886BB165C8E2">
             <num>第二十五条</num>
-            <paragraph eId="cmp_zho__art_25__para_1"><num>㈠</num><content><p>人人有权享受为维持他本人和家属的健康和福利所需的生活水准，包括食物、衣着、住房、医疗和必要的社会服务；在遭到失业、疾病、残废、守寡、衰老或在其他不能控制的情况下丧失谋生能力时，有权享受保障。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_25__para_2"><num>㈡</num><content><p>母亲和儿童有权享受特别照顾和协助。一切儿童，无论婚生或非婚生，都应享受同样的社会保护。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_25__para_1" GUID="5EE9B30E-3DA0-473D-BEBF-5BF8A7320381"><num>㈠</num><content><p>人人有权享受为维持他本人和家属的健康和福利所需的生活水准，包括食物、衣着、住房、医疗和必要的社会服务；在遭到失业、疾病、残废、守寡、衰老或在其他不能控制的情况下丧失谋生能力时，有权享受保障。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_25__para_2" GUID="8BACF64F-0703-40E1-8D0F-CD4F300A6C13"><num>㈡</num><content><p>母亲和儿童有权享受特别照顾和协助。一切儿童，无论婚生或非婚生，都应享受同样的社会保护。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_26">
+          <article eId="cmp_zho__art_26" GUID="CFCC50E4-5E5A-4D65-8A1D-A0D627257734">
             <num>第二十六条</num>
-            <paragraph eId="cmp_zho__art_26__para_1"><num>㈠</num><content><p>人人都有受教育的权利，教育应当免费，至少在初级和基本阶段应如此。初级教育应属义务性质。技术和职业教育应普遍设立。高等教育应根据成绩而对一切人平等开放。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_26__para_2"><num>㈡</num><content><p>教育的目的在于充分发展人的个性并加强对人权和基本自由的尊重。教育应促进各国、各种族或各宗教集团间的了解、容忍和友谊，并应促进联合国维护和平的各项活动。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_26__para_3"><num>㈢</num><content><p>父母对其子女所应受的教育的种类，有优先选择的权利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_26__para_1" GUID="6606876A-0D12-44C2-A11E-B43141D386E9"><num>㈠</num><content><p>人人都有受教育的权利，教育应当免费，至少在初级和基本阶段应如此。初级教育应属义务性质。技术和职业教育应普遍设立。高等教育应根据成绩而对一切人平等开放。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_26__para_2" GUID="BF898FD4-CA3E-4844-9C6C-62BDBB25B259"><num>㈡</num><content><p>教育的目的在于充分发展人的个性并加强对人权和基本自由的尊重。教育应促进各国、各种族或各宗教集团间的了解、容忍和友谊，并应促进联合国维护和平的各项活动。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_26__para_3" GUID="669A8DD1-6013-4F44-9607-1B71D576BEFE"><num>㈢</num><content><p>父母对其子女所应受的教育的种类，有优先选择的权利。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_27">
+          <article eId="cmp_zho__art_27" GUID="6A2833D3-A0C2-46A4-A5E0-E3CB611F8DB3">
             <num>第二十七条</num>
-            <paragraph eId="cmp_zho__art_27__para_1"><num>㈠</num><content><p>人人有权自由参加社会的文化生活，享受艺术，并分享科学进步及其产生的福利。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_27__para_2"><num>㈡</num><content><p>人人对由于他所创作的任何科学、文学或美术作品而产生的精神的和物质的利益，有享受保护的权利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_27__para_1" GUID="7CED8657-2D08-4307-9130-6C2C04C1C501"><num>㈠</num><content><p>人人有权自由参加社会的文化生活，享受艺术，并分享科学进步及其产生的福利。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_27__para_2" GUID="288019E1-85D4-4566-ADF4-48F1C947AD0A"><num>㈡</num><content><p>人人对由于他所创作的任何科学、文学或美术作品而产生的精神的和物质的利益，有享受保护的权利。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_28">
+          <article eId="cmp_zho__art_28" GUID="289FABB6-24FF-476B-8D8E-DCB3C7B467F3">
             <num>第二十八条</num>
             <content>
               <p>人人有权要求一种社会的和国际的秩序，在这种秩序中，本宣言所载的权利和自由能获得充分实现。</p>
             </content>
           </article>
-          <article eId="cmp_zho__art_29">
+          <article eId="cmp_zho__art_29" GUID="6C1BAF77-DB94-4B0A-962C-4890C208603C">
             <num>第二十九条</num>
-            <paragraph eId="cmp_zho__art_29__para_1"><num>㈠</num><content><p>人人对社会负有义务，因为只有在社会中他的个性才可能得到自由和充分的发展。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_29__para_2"><num>㈡</num><content><p>人人在行使他的权利和自由时，只受法律所确定的限制，确定此种限制的唯一目的在于保证对旁人的权利和自由给予应有的承认和尊重，并在一个民主的社会中适应道德、公共秩序和普遍福利的正当需要。</p></content></paragraph>
-            <paragraph eId="cmp_zho__art_29__para_3"><num>㈢</num><content><p>这些权利和自由的行使，无论在任何情形下均不得违背联合国的宗旨和原则。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_29__para_1" GUID="04E76E85-2689-46F5-8105-2331441524EE"><num>㈠</num><content><p>人人对社会负有义务，因为只有在社会中他的个性才可能得到自由和充分的发展。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_29__para_2" GUID="2431D297-989E-42CC-B0BE-F5AEEECDB544"><num>㈡</num><content><p>人人在行使他的权利和自由时，只受法律所确定的限制，确定此种限制的唯一目的在于保证对旁人的权利和自由给予应有的承认和尊重，并在一个民主的社会中适应道德、公共秩序和普遍福利的正当需要。</p></content></paragraph>
+            <paragraph eId="cmp_zho__art_29__para_3" GUID="7EBDE39E-80AF-4CE5-9FB9-CBCD20818966"><num>㈢</num><content><p>这些权利和自由的行使，无论在任何情形下均不得违背联合国的宗旨和原则。</p></content></paragraph>
           </article>
-          <article eId="cmp_zho__art_30">
+          <article eId="cmp_zho__art_30" GUID="54D4D3A6-FE78-4237-994A-74A1F3CF2594">
             <num>第三十条</num>
             <content>
               <p>本宣言的任何条文，不得解释为默许任何国家、集团或个人有权进行任何旨在破坏本宣言所载的任何权利和自由的活动或行为。</p>
@@ -736,7 +736,7 @@
         </mainBody>
       </statement>
       </component>
-      <component eId="cmp_fra">
+      <component eId="cmp_fra" GUID="33FC5442-FE05-4CCF-B5EB-1949E0CC29DA">
       <statement name="declaration" contains="originalVersion">
         <meta>
           <identification source="#gv_fra">
@@ -765,198 +765,198 @@
             </FRBRManifestation>
           </identification>
           <references source="#gv_fra">
-            <TLCOrganization eId="unga_fra" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
-            <TLCPerson eId="gv_fra" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-            <TLCRole eId="author_fra" href="/ontology/role/author" showAs="Author"/>
-            <TLCRole eId="editor_fra" href="/ontology/role/editor" showAs="Editor"/>
+            <TLCOrganization eId="unga_fra" GUID="49EB7087-B3E3-40C7-A890-EA042A4252B9" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
+            <TLCPerson eId="gv_fra" GUID="F3DFAE29-1292-49A0-93F5-15488DBBAD4F" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+            <TLCRole eId="author_fra" GUID="487D9321-98DA-42B7-BB1A-B6A7DA2D2C20" href="/ontology/role/author" showAs="Author"/>
+            <TLCRole eId="editor_fra" GUID="2AF66733-CCBC-403F-8334-A9AFAE4C74CB" href="/ontology/role/editor" showAs="Editor"/>
           </references>
         </meta>
         <preface xml:lang="fr">
           <p class="title"><docTitle>Déclaration universelle des droits de l'homme</docTitle></p>
         </preface>
         <preamble xml:lang="fr">
-          <container name="preambleHeading" eId="cmp_fra__pre"><p class="preHead">Préambule</p></container>
+          <container name="preambleHeading" eId="cmp_fra__pre" GUID="5D321534-FEEC-4A8C-A59A-A555F4303934"><p class="preHead">Préambule</p></container>
           <recitals>
-            <recital eId="cmp_fra__rec_1"><p>Considérant que la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde.</p></recital>
-            <recital eId="cmp_fra__rec_2"><p>Considérant que la méconnaissance et le mépris des droits de l'homme ont conduit à des actes de barbarie qui révoltent la conscience de l'humanité et que l'avènement d'un monde où les êtres humains seront libres de parler et de croire, libérés de la terreur et de la misère, a été proclamé comme la plus haute aspiration de l'homme.</p></recital>
-            <recital eId="cmp_fra__rec_3"><p>Considérant qu'il est essentiel que les droits de l'homme soient protégés par un régime de droit pour que l'homme ne soit pas contraint, en suprême recours, à la révolte contre la tyrannie et l'oppression.</p></recital>
-            <recital eId="cmp_fra__rec_4"><p>Considérant qu'il est essentiel d'encourager le développement de relations amicales entre nations.</p></recital>
-            <recital eId="cmp_fra__rec_5"><p>Considérant que dans la Charte les peuples des Nations Unies ont proclamé à nouveau leur foi dans les droits fondamentaux de l'homme, dans la dignité et la valeur de la personne humaine, dans l'égalité des droits des hommes et des femmes, et qu'ils se sont déclarés résolus à favoriser le progrès social et à instaurer de meilleures conditions de vie dans une liberté plus grande.</p></recital>
-            <recital eId="cmp_fra__rec_6"><p>Considérant que les Etats Membres se sont engagés à assurer, en coopération avec l'Organisation des Nations Unies, le respect universel et effectif des droits de l'homme et des libertés fondamentales.</p></recital>
-            <recital eId="cmp_fra__rec_7"><p>Considérant qu'une conception commune de ces droits et libertés est de la plus haute importance pour remplir pleinement cet engagement.</p></recital>
+            <recital eId="cmp_fra__rec_1" GUID="CFEBA936-490B-465C-9297-7F34B4FAF000"><p>Considérant que la reconnaissance de la dignité inhérente à tous les membres de la famille humaine et de leurs droits égaux et inaliénables constitue le fondement de la liberté, de la justice et de la paix dans le monde.</p></recital>
+            <recital eId="cmp_fra__rec_2" GUID="B9521EE0-F64F-46EE-85AE-C0791CD2FA89"><p>Considérant que la méconnaissance et le mépris des droits de l'homme ont conduit à des actes de barbarie qui révoltent la conscience de l'humanité et que l'avènement d'un monde où les êtres humains seront libres de parler et de croire, libérés de la terreur et de la misère, a été proclamé comme la plus haute aspiration de l'homme.</p></recital>
+            <recital eId="cmp_fra__rec_3" GUID="B4FC0037-CD4D-4A80-A7D9-224E56724DF2"><p>Considérant qu'il est essentiel que les droits de l'homme soient protégés par un régime de droit pour que l'homme ne soit pas contraint, en suprême recours, à la révolte contre la tyrannie et l'oppression.</p></recital>
+            <recital eId="cmp_fra__rec_4" GUID="5B142672-9126-4DEB-ABDE-C029DD5ED9C1"><p>Considérant qu'il est essentiel d'encourager le développement de relations amicales entre nations.</p></recital>
+            <recital eId="cmp_fra__rec_5" GUID="B7B19BAF-A2BF-4219-845C-FF2BBF4ECCD4"><p>Considérant que dans la Charte les peuples des Nations Unies ont proclamé à nouveau leur foi dans les droits fondamentaux de l'homme, dans la dignité et la valeur de la personne humaine, dans l'égalité des droits des hommes et des femmes, et qu'ils se sont déclarés résolus à favoriser le progrès social et à instaurer de meilleures conditions de vie dans une liberté plus grande.</p></recital>
+            <recital eId="cmp_fra__rec_6" GUID="16D4A722-9A77-47EB-B524-F2E359257E15"><p>Considérant que les Etats Membres se sont engagés à assurer, en coopération avec l'Organisation des Nations Unies, le respect universel et effectif des droits de l'homme et des libertés fondamentales.</p></recital>
+            <recital eId="cmp_fra__rec_7" GUID="C3C06EE2-AD31-49C7-8FFF-FD2545B84B16"><p>Considérant qu'une conception commune de ces droits et libertés est de la plus haute importance pour remplir pleinement cet engagement.</p></recital>
           </recitals>
           <formula name="enactingFormula">
             <p>L'Assemblée générale proclame la présente Déclaration universelle des droits de l'homme comme l'idéal commun à atteindre par tous les peuples et toutes les nations afin que tous les individus et tous les organes de la société, ayant cette Déclaration constamment à l'esprit, s'efforcent, par l'enseignement et l'éducation, de développer le respect de ces droits et libertés et d'en assurer, par des mesures progressives d'ordre national et international, la reconnaissance et l'application universelles et effectives, tant parmi les populations des Etats Membres eux-mêmes que parmi celles des territoires placés sous leur juridiction.</p>
           </formula>
         </preamble>
         <mainBody xml:lang="fr">
-          <article eId="cmp_fra__art_1">
+          <article eId="cmp_fra__art_1" GUID="C8164155-8F3C-4D39-90A7-93534C721A3F">
             <num>Article premier</num>
             <content>
               <p>Tous les êtres humains naissent libres et égaux en dignité et en droits. Ils sont doués de raison et de conscience et doivent agir les uns envers les autres dans un esprit de fraternité.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_2">
+          <article eId="cmp_fra__art_2" GUID="633530B5-7888-498F-99BD-E5FE771F662C">
             <num>Article 2</num>
-            <paragraph eId="cmp_fra__art_2__para_1"><num>1.</num><content><p>Chacun peut se prévaloir de tous les droits et de toutes les libertés proclamés dans la présente Déclaration, sans distinction aucune, notamment de race, de couleur, de sexe, de langue, de religion, d'opinion politique ou de toute autre opinion, d'origine nationale ou sociale, de fortune, de naissance ou de toute autre situation.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_2__para_2"><num>2.</num><content><p>De plus, il ne sera fait aucune distinction fondée sur le statut politique, juridique ou international du pays ou du territoire dont une personne est ressortissante, que ce pays ou territoire soit indépendant, sous tutelle, non autonome ou soumis à une limitation quelconque de souveraineté.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_2__para_1" GUID="CE87BF55-B371-4EB7-868F-C82DA33AE402"><num>1.</num><content><p>Chacun peut se prévaloir de tous les droits et de toutes les libertés proclamés dans la présente Déclaration, sans distinction aucune, notamment de race, de couleur, de sexe, de langue, de religion, d'opinion politique ou de toute autre opinion, d'origine nationale ou sociale, de fortune, de naissance ou de toute autre situation.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_2__para_2" GUID="2D3AB235-A761-440A-A0A7-C21778409A8B"><num>2.</num><content><p>De plus, il ne sera fait aucune distinction fondée sur le statut politique, juridique ou international du pays ou du territoire dont une personne est ressortissante, que ce pays ou territoire soit indépendant, sous tutelle, non autonome ou soumis à une limitation quelconque de souveraineté.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_3">
+          <article eId="cmp_fra__art_3" GUID="18DFF4FF-0F41-4B74-B73F-E0E1CB619F87">
             <num>Article 3</num>
             <content>
               <p>Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_4">
+          <article eId="cmp_fra__art_4" GUID="07AC5C28-7DC8-4F14-B25F-F734AB5A649C">
             <num>Article 4</num>
             <content>
               <p>Nul ne sera tenu en esclavage ni en servitude; l'esclavage et la traite des esclaves sont interdits sous toutes leurs formes.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_5">
+          <article eId="cmp_fra__art_5" GUID="BBD25463-0561-45D2-91BA-3BC438C6EE62">
             <num>Article 5</num>
             <content>
               <p>Nul ne sera soumis à la torture, ni à des peines ou traitements cruels, inhumains ou dégradants.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_6">
+          <article eId="cmp_fra__art_6" GUID="D7904FB4-EF58-48FD-A623-542F755D79ED">
             <num>Article 6</num>
             <content>
               <p>Chacun a le droit à la reconnaissance en tous lieux de sa personnalité juridique.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_7">
+          <article eId="cmp_fra__art_7" GUID="67CB79BA-9549-45D3-AF8E-31F5CD3D1D79">
             <num>Article 7</num>
             <content>
               <p>Tous sont égaux devant la loi et ont droit sans distinction à une égale protection de la loi. Tous ont droit à une protection égale contre toute discrimination qui violerait la présente Déclaration et contre toute provocation à une telle discrimination.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_8">
+          <article eId="cmp_fra__art_8" GUID="2AEAAA01-F698-4EDC-8D97-476776BEB283">
             <num>Article 8</num>
             <content>
               <p>Toute personne a droit à un recours effectif devant les juridictions nationales compétentes contre les actes violant les droits fondamentaux qui lui sont reconnus par la constitution ou par la loi.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_9">
+          <article eId="cmp_fra__art_9" GUID="1F687A09-D6EF-4694-9F9B-CFC8865291E3">
             <num>Article 9</num>
             <content>
               <p>Nul ne peut être arbitrairement arrêté, détenu ou exilé.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_10">
+          <article eId="cmp_fra__art_10" GUID="1CBD8D24-0D80-4F0F-8512-2E6CE44C6B72">
             <num>Article 10</num>
             <content>
               <p>Toute personne a droit, en pleine égalité, à ce que sa cause soit entendue équitablement et publiquement par un tribunal indépendant et impartial, qui décidera, soit de ses droits et obligations, soit du bien-fondé de toute accusation en matière pénale dirigée contre elle.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_11">
+          <article eId="cmp_fra__art_11" GUID="4DF5B380-9CDD-4739-A0EF-C79E2850CAB7">
             <num>Article 11</num>
-            <paragraph eId="cmp_fra__art_11__para_1"><num>1.</num><content><p>Toute personne accusée d'un acte délictueux est présumée innocente jusqu'à ce que sa culpabilité ait été légalement établie au cours d'un procès public où toutes les garanties nécessaires à sa défense lui auront été assurées.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_11__para_2"><num>2.</num><content><p>Nul ne sera condamné pour des actions ou omissions qui, au moment où elles ont été commises, ne constituaient pas un acte délictueux d'après le droit national ou international. De même, il ne sera infligé aucune peine plus forte que celle qui était applicable au moment où l'acte délictueux a été commis.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_11__para_1" GUID="E53D35A1-F9F3-49E3-BBCB-47166568947B"><num>1.</num><content><p>Toute personne accusée d'un acte délictueux est présumée innocente jusqu'à ce que sa culpabilité ait été légalement établie au cours d'un procès public où toutes les garanties nécessaires à sa défense lui auront été assurées.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_11__para_2" GUID="8C4DB1A4-2E16-4E1F-860E-C7803BE27A6A"><num>2.</num><content><p>Nul ne sera condamné pour des actions ou omissions qui, au moment où elles ont été commises, ne constituaient pas un acte délictueux d'après le droit national ou international. De même, il ne sera infligé aucune peine plus forte que celle qui était applicable au moment où l'acte délictueux a été commis.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_12">
+          <article eId="cmp_fra__art_12" GUID="DA63BE95-03A3-46DA-816E-83ED56C7AC26">
             <num>Article 12</num>
             <content>
               <p>Nul ne sera l'objet d'immixtions arbitraires dans sa vie privée, sa famille, son domicile ou sa correspondance, ni d'atteintes à son honneur et à sa réputation. Toute personne a droit à la protection de la loi contre de telles immixtions ou de telles atteintes.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_13">
+          <article eId="cmp_fra__art_13" GUID="5180DB47-0E39-43E0-8092-500654875665">
             <num>Article 13</num>
-            <paragraph eId="cmp_fra__art_13__para_1"><num>1.</num><content><p>Toute personne a le droit de circuler librement et de choisir sa résidence à l'intérieur d'un Etat.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_13__para_2"><num>2.</num><content><p>Toute personne a le droit de quitter tout pays, y compris le sien, et de revenir dans son pays.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_13__para_1" GUID="22BF203B-44F0-48A0-8A24-D7EF336B8657"><num>1.</num><content><p>Toute personne a le droit de circuler librement et de choisir sa résidence à l'intérieur d'un Etat.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_13__para_2" GUID="D8C9AADC-A907-4DAD-8093-4B8FDFEBDF9A"><num>2.</num><content><p>Toute personne a le droit de quitter tout pays, y compris le sien, et de revenir dans son pays.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_14">
+          <article eId="cmp_fra__art_14" GUID="0D67A749-F671-446E-9796-C0D141665FE9">
             <num>Article 14</num>
-            <paragraph eId="cmp_fra__art_14__para_1"><num>1.</num><content><p>Devant la persécution, toute personne a le droit de chercher asile et de bénéficier de l'asile en d'autres pays.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_14__para_2"><num>2.</num><content><p>Ce droit ne peut être invoqué dans le cas de poursuites réellement fondées sur un crime de droit commun ou sur des agissements contraires aux buts et aux principes des Nations Unies.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_14__para_1" GUID="F2B8D0AB-5B7C-4ED3-A2DB-764AD27E00B4"><num>1.</num><content><p>Devant la persécution, toute personne a le droit de chercher asile et de bénéficier de l'asile en d'autres pays.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_14__para_2" GUID="14452839-17AF-4E62-959E-1B93E8CB4F23"><num>2.</num><content><p>Ce droit ne peut être invoqué dans le cas de poursuites réellement fondées sur un crime de droit commun ou sur des agissements contraires aux buts et aux principes des Nations Unies.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_15">
+          <article eId="cmp_fra__art_15" GUID="9CE7CAA3-C34D-461C-B2B4-7A28DDE54E33">
             <num>Article 15</num>
-            <paragraph eId="cmp_fra__art_15__para_1"><num>1.</num><content><p>Tout individu a droit à une nationalité.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_15__para_2"><num>2.</num><content><p>Nul ne peut être arbitrairement privé de sa nationalité, ni du droit de changer de nationalité.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_15__para_1" GUID="9FD7C622-8924-4860-8CFE-E1C0225C1C1F"><num>1.</num><content><p>Tout individu a droit à une nationalité.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_15__para_2" GUID="56BCF04B-6C27-4313-8D6D-6F7664F4D0BC"><num>2.</num><content><p>Nul ne peut être arbitrairement privé de sa nationalité, ni du droit de changer de nationalité.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_16">
+          <article eId="cmp_fra__art_16" GUID="E93DE2E5-6AEE-4B1F-96B8-68E39BFF149A">
             <num>Article 16</num>
-            <paragraph eId="cmp_fra__art_16__para_1"><num>1.</num><content><p>A partir de l'âge nubile, l'homme et la femme, sans aucune restriction quant à la race, la nationalité ou la religion, ont le droit de se marier et de fonder une famille. Ils ont des droits égaux au regard du mariage, durant le mariage et lors de sa dissolution.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_16__para_2"><num>2.</num><content><p>Le mariage ne peut être conclu qu'avec le libre et plein consentement des futurs époux.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_16__para_3"><num>3.</num><content><p>La famille est l'élément naturel et fondamental de la société et a droit à la protection de la société et de l'Etat.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_16__para_1" GUID="088AEC1F-43BD-47FF-B8BD-267F9267F59C"><num>1.</num><content><p>A partir de l'âge nubile, l'homme et la femme, sans aucune restriction quant à la race, la nationalité ou la religion, ont le droit de se marier et de fonder une famille. Ils ont des droits égaux au regard du mariage, durant le mariage et lors de sa dissolution.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_16__para_2" GUID="770138A9-66FE-4525-8126-73D32E03ABB9"><num>2.</num><content><p>Le mariage ne peut être conclu qu'avec le libre et plein consentement des futurs époux.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_16__para_3" GUID="38434E85-430B-4BAA-A8E9-06A57BB5E64E"><num>3.</num><content><p>La famille est l'élément naturel et fondamental de la société et a droit à la protection de la société et de l'Etat.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_17">
+          <article eId="cmp_fra__art_17" GUID="3FE7D3B5-FA8A-469D-AC12-97F9E2759345">
             <num>Article 17</num>
-            <paragraph eId="cmp_fra__art_17__para_1"><num>1.</num><content><p>Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_17__para_2"><num>2.</num><content><p>Nul ne peut être arbitrairement privé de sa propriété.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_17__para_1" GUID="A7AAA33A-0F18-4879-84E4-F9D036757481"><num>1.</num><content><p>Toute personne, aussi bien seule qu'en collectivité, a droit à la propriété.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_17__para_2" GUID="24320C10-7733-406B-A0D6-0FD6AE149C4A"><num>2.</num><content><p>Nul ne peut être arbitrairement privé de sa propriété.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_18">
+          <article eId="cmp_fra__art_18" GUID="A8AB11FB-825A-42C2-A283-540E64D852D0">
             <num>Article 18</num>
             <content>
               <p>Toute personne a droit à la liberté de pensée, de conscience et de religion ; ce droit implique la liberté de changer de religion ou de conviction ainsi que la liberté de manifester sa religion ou sa conviction seule ou en commun, tant en public qu'en privé, par l'enseignement, les pratiques, le culte et l'accomplissement des rites.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_19">
+          <article eId="cmp_fra__art_19" GUID="469B792B-7595-4617-A71D-1EFC3EBC595E">
             <num>Article 19</num>
             <content>
               <p>Tout individu a droit à la liberté d'opinion et d'expression, ce qui implique le droit de ne pas être inquiété pour ses opinions et celui de chercher, de recevoir et de répandre, sans considérations de frontières, les informations et les idées par quelque moyen d'expression que ce soit.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_20">
+          <article eId="cmp_fra__art_20" GUID="1A4D0600-DC38-4BD0-9A6A-20A2A010A01D">
             <num>Article 20</num>
-            <paragraph eId="cmp_fra__art_20__para_1"><num>1.</num><content><p>Toute personne a droit à la liberté de réunion et d'association pacifiques.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_20__para_2"><num>2.</num><content><p>Nul ne peut être obligé de faire partie d'une association.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_20__para_1" GUID="565A77FB-5A8F-4F8C-9480-F3246F6F4F08"><num>1.</num><content><p>Toute personne a droit à la liberté de réunion et d'association pacifiques.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_20__para_2" GUID="28DBF257-962D-48C0-97D6-BC1F13BF177C"><num>2.</num><content><p>Nul ne peut être obligé de faire partie d'une association.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_21">
+          <article eId="cmp_fra__art_21" GUID="4812A3CB-44FF-44FA-B047-A49C4C374C0A">
             <num>Article 21</num>
-            <paragraph eId="cmp_fra__art_21__para_1"><num>1.</num><content><p>Toute personne a le droit de prendre part à la direction des affaires publiques de son pays, soit directement, soit par l'intermédiaire de représentants librement choisis.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_21__para_2"><num>2.</num><content><p>Toute personne a droit à accéder, dans des conditions d'égalité, aux fonctions publiques de son pays.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_21__para_3"><num>3.</num><content><p>La volonté du peuple est le fondement de l'autorité des pouvoirs publics ; cette volonté doit s'exprimer par des élections honnêtes qui doivent avoir lieu périodiquement, au suffrage universel égal et au vote secret ou suivant une procédure équivalente assurant la liberté du vote.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_21__para_1" GUID="D09A03B2-E4BD-4ADC-8DD7-C44E0C303EED"><num>1.</num><content><p>Toute personne a le droit de prendre part à la direction des affaires publiques de son pays, soit directement, soit par l'intermédiaire de représentants librement choisis.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_21__para_2" GUID="C7C85B3C-C907-4AAD-92F5-EC64A289B85C"><num>2.</num><content><p>Toute personne a droit à accéder, dans des conditions d'égalité, aux fonctions publiques de son pays.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_21__para_3" GUID="81A22D99-4BB4-47BF-B886-FC503526B695"><num>3.</num><content><p>La volonté du peuple est le fondement de l'autorité des pouvoirs publics ; cette volonté doit s'exprimer par des élections honnêtes qui doivent avoir lieu périodiquement, au suffrage universel égal et au vote secret ou suivant une procédure équivalente assurant la liberté du vote.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_22">
+          <article eId="cmp_fra__art_22" GUID="978B925B-4493-4F7D-84AB-268711440209">
             <num>Article 22</num>
             <content>
               <p>Toute personne, en tant que membre de la société, a droit à la sécurité sociale ; elle est fondée à obtenir la satisfaction des droits économiques, sociaux et culturels indispensables à sa dignité et au libre développement de sa personnalité, grâce à l'effort national et à la coopération internationale, compte tenu de l'organisation et des ressources de chaque pays.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_23">
+          <article eId="cmp_fra__art_23" GUID="89FF8D45-1121-4B5C-941E-7951809AA811">
             <num>Article 23</num>
-            <paragraph eId="cmp_fra__art_23__para_1"><num>1.</num><content><p>Toute personne a droit au travail, au libre choix de son travail, à des conditions équitables et satisfaisantes de travail et à la protection contre le chômage.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_23__para_2"><num>2.</num><content><p>Tous ont droit, sans aucune discrimination, à un salaire égal pour un travail égal.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_23__para_3"><num>3.</num><content><p>Quiconque travaille a droit à une rémunération équitable et satisfaisante lui assurant ainsi qu'à sa famille une existence conforme à la dignité humaine et complétée, s'il y a lieu, par tous autres moyens de protection sociale.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_23__para_4"><num>4.</num><content><p>Toute personne a le droit de fonder avec d'autres des syndicats et de s'affilier à des syndicats pour la défense de ses intérêts.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_23__para_1" GUID="23DF64EA-1B66-4623-A337-E51B8B943390"><num>1.</num><content><p>Toute personne a droit au travail, au libre choix de son travail, à des conditions équitables et satisfaisantes de travail et à la protection contre le chômage.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_23__para_2" GUID="8CE1AA67-F156-43B5-ABAA-13B78ED80E1E"><num>2.</num><content><p>Tous ont droit, sans aucune discrimination, à un salaire égal pour un travail égal.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_23__para_3" GUID="D06DD00A-CC5F-4C28-85F7-54C93B5C2A70"><num>3.</num><content><p>Quiconque travaille a droit à une rémunération équitable et satisfaisante lui assurant ainsi qu'à sa famille une existence conforme à la dignité humaine et complétée, s'il y a lieu, par tous autres moyens de protection sociale.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_23__para_4" GUID="987476EA-20B4-49F0-BCFC-5C8069D4D9E6"><num>4.</num><content><p>Toute personne a le droit de fonder avec d'autres des syndicats et de s'affilier à des syndicats pour la défense de ses intérêts.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_24">
+          <article eId="cmp_fra__art_24" GUID="E8A7EB53-E473-4D13-A5FE-B8F3E62EB62B">
             <num>Article 24</num>
             <content>
               <p>Toute personne a droit au repos et aux loisirs et notamment à une limitation raisonnable de la durée du travail et à des congés payés périodiques.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_25">
+          <article eId="cmp_fra__art_25" GUID="B2E768EA-1A1E-4442-B89C-ADA23C7097FF">
             <num>Article 25</num>
-            <paragraph eId="cmp_fra__art_25__para_1"><num>1.</num><content><p>Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien-être et ceux de sa famille, notamment pour l'alimentation, l'habillement, le logement, les soins médicaux ainsi que pour les services sociaux nécessaires ; elle a droit à la sécurité en cas de chômage, de maladie, d'invalidité, de veuvage, de vieillesse ou dans les autres cas de perte de ses moyens de subsistance par suite de circonstances indépendantes de sa volonté.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_25__para_2"><num>2.</num><content><p>La maternité et l'enfance ont droit à une aide et à une assistance spéciales. Tous les enfants, qu'ils soient nés dans le mariage ou hors mariage, jouissent de la même protection sociale.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_25__para_1" GUID="29C1E34F-6B90-450F-95FF-5B874619D41C"><num>1.</num><content><p>Toute personne a droit à un niveau de vie suffisant pour assurer sa santé, son bien-être et ceux de sa famille, notamment pour l'alimentation, l'habillement, le logement, les soins médicaux ainsi que pour les services sociaux nécessaires ; elle a droit à la sécurité en cas de chômage, de maladie, d'invalidité, de veuvage, de vieillesse ou dans les autres cas de perte de ses moyens de subsistance par suite de circonstances indépendantes de sa volonté.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_25__para_2" GUID="E59020B5-C176-43D4-9BEA-4CE20314D804"><num>2.</num><content><p>La maternité et l'enfance ont droit à une aide et à une assistance spéciales. Tous les enfants, qu'ils soient nés dans le mariage ou hors mariage, jouissent de la même protection sociale.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_26">
+          <article eId="cmp_fra__art_26" GUID="33F3E695-9233-47DE-ABBC-0D7EFE96EE53">
             <num>Article 26</num>
-            <paragraph eId="cmp_fra__art_26__para_1"><num>1.</num><content><p>Toute personne a droit à l'éducation. L'éducation doit être gratuite, au moins en ce qui concerne l'enseignement élémentaire et fondamental. L'enseignement élémentaire est obligatoire. L'enseignement technique et professionnel doit être généralisé ; l'accès aux études supérieures doit être ouvert en pleine égalité à tous en fonction de leur mérite.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_26__para_2"><num>2.</num><content><p>L'éducation doit viser au plein épanouissement de la personnalité humaine et au renforcement du respect des droits de l'homme et des libertés fondamentales. Elle doit favoriser la compréhension, la tolérance et l'amitié entre toutes les nations et tous les groupes raciaux ou religieux, ainsi que le développement des activités des Nations Unies pour le maintien de la paix.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_26__para_3"><num>3.</num><content><p>Les parents ont, par priorité, le droit de choisir le genre d'éducation à donner à leurs enfants.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_26__para_1" GUID="C24E0655-615B-4FA5-A435-753A5FFCAB6B"><num>1.</num><content><p>Toute personne a droit à l'éducation. L'éducation doit être gratuite, au moins en ce qui concerne l'enseignement élémentaire et fondamental. L'enseignement élémentaire est obligatoire. L'enseignement technique et professionnel doit être généralisé ; l'accès aux études supérieures doit être ouvert en pleine égalité à tous en fonction de leur mérite.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_26__para_2" GUID="33A58733-F91D-4D90-899E-4980DC091FA7"><num>2.</num><content><p>L'éducation doit viser au plein épanouissement de la personnalité humaine et au renforcement du respect des droits de l'homme et des libertés fondamentales. Elle doit favoriser la compréhension, la tolérance et l'amitié entre toutes les nations et tous les groupes raciaux ou religieux, ainsi que le développement des activités des Nations Unies pour le maintien de la paix.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_26__para_3" GUID="AFD64E9E-003F-4DF8-B592-C5E9FEF30B67"><num>3.</num><content><p>Les parents ont, par priorité, le droit de choisir le genre d'éducation à donner à leurs enfants.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_27">
+          <article eId="cmp_fra__art_27" GUID="1A5F41B5-9D9B-4192-B4B8-36C7303B3A2A">
             <num>Article 27</num>
-            <paragraph eId="cmp_fra__art_27__para_1"><num>1.</num><content><p>Toute personne a le droit de prendre part librement à la vie culturelle de la communauté, de jouir des arts et de participer au progrès scientifique et aux bienfaits qui en résultent.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_27__para_2"><num>2.</num><content><p>Chacun a droit à la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l'auteur.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_27__para_1" GUID="8341CCC8-96FA-4E8B-8AD9-0E9B445686C4"><num>1.</num><content><p>Toute personne a le droit de prendre part librement à la vie culturelle de la communauté, de jouir des arts et de participer au progrès scientifique et aux bienfaits qui en résultent.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_27__para_2" GUID="69D00D1E-8135-4C84-8082-4D82758D57F8"><num>2.</num><content><p>Chacun a droit à la protection des intérêts moraux et matériels découlant de toute production scientifique, littéraire ou artistique dont il est l'auteur.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_28">
+          <article eId="cmp_fra__art_28" GUID="D9A0C733-EBA8-4096-ADF7-907CAA5B7BBE">
             <num>Article 28</num>
             <content>
               <p>Toute personne a droit à ce que règne, sur le plan social et sur le plan international, un ordre tel que les droits et libertés énoncés dans la présente Déclaration puissent y trouver plein effet.</p>
             </content>
           </article>
-          <article eId="cmp_fra__art_29">
+          <article eId="cmp_fra__art_29" GUID="BC105459-0493-4BAE-A46E-0954DD1CA27D">
             <num>Article 29</num>
-            <paragraph eId="cmp_fra__art_29__para_1"><num>1.</num><content><p>L'individu a des devoirs envers la communauté dans laquelle seule le libre et plein développement de sa personnalité est possible.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_29__para_2"><num>2.</num><content><p>Dans l'exercice de ses droits et dans la jouissance de ses libertés, chacun n'est soumis qu'aux limitations établies par la loi exclusivement en vue d'assurer la reconnaissance et le respect des droits et libertés d'autrui et afin de satisfaire aux justes exigences de la morale, de l'ordre public et du bien-être général dans une société démocratique.</p></content></paragraph>
-            <paragraph eId="cmp_fra__art_29__para_3"><num>3.</num><content><p>Ces droits et libertés ne pourront, en aucun cas, s'exercer contrairement aux buts et aux principes des Nations Unies.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_29__para_1" GUID="3339B433-667D-466D-A1FC-A9247470B141"><num>1.</num><content><p>L'individu a des devoirs envers la communauté dans laquelle seule le libre et plein développement de sa personnalité est possible.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_29__para_2" GUID="2B2B73E0-AC1E-4F75-ABC9-4EF165771251"><num>2.</num><content><p>Dans l'exercice de ses droits et dans la jouissance de ses libertés, chacun n'est soumis qu'aux limitations établies par la loi exclusivement en vue d'assurer la reconnaissance et le respect des droits et libertés d'autrui et afin de satisfaire aux justes exigences de la morale, de l'ordre public et du bien-être général dans une société démocratique.</p></content></paragraph>
+            <paragraph eId="cmp_fra__art_29__para_3" GUID="4E72FDE3-C7E4-471C-A301-8B3009F82B27"><num>3.</num><content><p>Ces droits et libertés ne pourront, en aucun cas, s'exercer contrairement aux buts et aux principes des Nations Unies.</p></content></paragraph>
           </article>
-          <article eId="cmp_fra__art_30">
+          <article eId="cmp_fra__art_30" GUID="BD5CDEFB-6236-4889-8BBE-34964EE9A9F7">
             <num>Article 30</num>
             <content>
               <p>Aucune disposition de la présente Déclaration ne peut être interprétée comme impliquant pour un État, un groupement ou un individu un droit quelconque de se livrer à une activité ou d'accomplir un acte visant à la destruction des droits et libertés qui y sont énoncés.</p>
@@ -965,7 +965,7 @@
         </mainBody>
       </statement>
       </component>
-      <component eId="cmp_rus">
+      <component eId="cmp_rus" GUID="3C7AB7D0-3A42-43A5-A7FA-18292C03B0F3">
       <statement name="declaration" contains="originalVersion">
         <meta>
           <identification source="#gv_rus">
@@ -994,25 +994,25 @@
             </FRBRManifestation>
           </identification>
           <references source="#gv_rus">
-            <TLCOrganization eId="unga_rus" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
-            <TLCPerson eId="gv_rus" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-            <TLCRole eId="author_rus" href="/ontology/role/author" showAs="Author"/>
-            <TLCRole eId="editor_rus" href="/ontology/role/editor" showAs="Editor"/>
+            <TLCOrganization eId="unga_rus" GUID="078635DE-2C1C-4E39-9152-67EC0950048D" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
+            <TLCPerson eId="gv_rus" GUID="46EF3520-9300-4108-A61E-DE0CA497B597" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+            <TLCRole eId="author_rus" GUID="FB32E94E-FEE3-4E77-8032-AE9CECDB151E" href="/ontology/role/author" showAs="Author"/>
+            <TLCRole eId="editor_rus" GUID="0660D30C-B4D7-4002-917E-3D12076EB143" href="/ontology/role/editor" showAs="Editor"/>
           </references>
         </meta>
         <preface xml:lang="ru">
           <p class="title"><docTitle>Всеобщая декларация прав человека</docTitle></p>
         </preface>
         <preamble xml:lang="ru">
-          <container name="preambleHeading" eId="cmp_rus__pre"><p class="preHead">ПРЕАМБУЛА</p></container>
+          <container name="preambleHeading" eId="cmp_rus__pre" GUID="612E7F7B-C00C-4DB1-8DAD-0EE2B84E2871"><p class="preHead">ПРЕАМБУЛА</p></container>
           <recitals>
-            <recital eId="cmp_rus__rec_1"><p>Принимая во внимание, что признание достоинства, присущего всем членам человеческой семьи, и равных и неотъемлемых прав их является основой свободы, справедливости и всеобщего мира; и</p></recital>
-            <recital eId="cmp_rus__rec_2"><p>принимая во внимание, что пренебрежение и презрение к правам человека привели к варварским актам, которые возмущают совесть человечества, и что создание такого мира, в котором люди будут иметь свободу слова и убеждений и будут свободны от страха и нужды, провозглашено как высокое стремление людей; и</p></recital>
-            <recital eId="cmp_rus__rec_3"><p>принимая во внимание, что необходимо, чтобы права человека охранялись властью закона в целях обеспечения того, чтобы человек не был вынужден прибегать, в качестве последнего средства, к восстанию против тирании и угнетения; и</p></recital>
-            <recital eId="cmp_rus__rec_4"><p>принимая во внимание, что необходимо содействовать развитию дружественных отношений между народами; и</p></recital>
-            <recital eId="cmp_rus__rec_5"><p>принимая во внимание, что народы Объединенных Наций подтвердили в Уставе свою веру в основные права человека, в достоинство и ценность человеческой личности и в равноправие мужчин и женщин и решили содействовать социальному прогрессу и улучшению условий жизни при большей свободе; и</p></recital>
-            <recital eId="cmp_rus__rec_6"><p>принимая во внимание, что государства-члены обязались содействовать, в сотрудничестве с Организацией Объединенных Наций, всеобщему уважению и соблюдению прав человека и основных свобод; и</p></recital>
-            <recital eId="cmp_rus__rec_7"><p>принимая во внимание, что всеобщее понимание характера этих прав и свобод имеет огромное значение для полного выполнения этого обязательства,</p></recital>
+            <recital eId="cmp_rus__rec_1" GUID="B3394EDD-FE9B-4E96-826B-C28B73E14F88"><p>Принимая во внимание, что признание достоинства, присущего всем членам человеческой семьи, и равных и неотъемлемых прав их является основой свободы, справедливости и всеобщего мира; и</p></recital>
+            <recital eId="cmp_rus__rec_2" GUID="E9B64F04-8EE3-4042-8E5D-DF36402B3501"><p>принимая во внимание, что пренебрежение и презрение к правам человека привели к варварским актам, которые возмущают совесть человечества, и что создание такого мира, в котором люди будут иметь свободу слова и убеждений и будут свободны от страха и нужды, провозглашено как высокое стремление людей; и</p></recital>
+            <recital eId="cmp_rus__rec_3" GUID="6A6162ED-42A6-49F0-B010-2B37D8B8A844"><p>принимая во внимание, что необходимо, чтобы права человека охранялись властью закона в целях обеспечения того, чтобы человек не был вынужден прибегать, в качестве последнего средства, к восстанию против тирании и угнетения; и</p></recital>
+            <recital eId="cmp_rus__rec_4" GUID="2912DC0D-0408-4F7C-AC3E-4AF867CD104E"><p>принимая во внимание, что необходимо содействовать развитию дружественных отношений между народами; и</p></recital>
+            <recital eId="cmp_rus__rec_5" GUID="3938370B-C1EE-4D77-8633-07E1A9A03FC9"><p>принимая во внимание, что народы Объединенных Наций подтвердили в Уставе свою веру в основные права человека, в достоинство и ценность человеческой личности и в равноправие мужчин и женщин и решили содействовать социальному прогрессу и улучшению условий жизни при большей свободе; и</p></recital>
+            <recital eId="cmp_rus__rec_6" GUID="97E1B107-68A6-4E4C-BD2F-6F1891C7B464"><p>принимая во внимание, что государства-члены обязались содействовать, в сотрудничестве с Организацией Объединенных Наций, всеобщему уважению и соблюдению прав человека и основных свобод; и</p></recital>
+            <recital eId="cmp_rus__rec_7" GUID="142B48B5-FD1D-4592-940D-8AF87D72242D"><p>принимая во внимание, что всеобщее понимание характера этих прав и свобод имеет огромное значение для полного выполнения этого обязательства,</p></recital>
           </recitals>
           <formula name="enactingFormula">
             <p>Генеральная Ассамблея,</p>
@@ -1020,175 +1020,175 @@
           </formula>
         </preamble>
         <mainBody xml:lang="ru">
-          <article eId="cmp_rus__art_1">
+          <article eId="cmp_rus__art_1" GUID="D2CA3ACB-1498-467F-8E74-4298027C715B">
             <num>Статья 1</num>
             <content>
               <p>Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_2">
+          <article eId="cmp_rus__art_2" GUID="052251C0-C6F3-4A96-95B9-8B255BDB30B5">
             <num>Статья 2</num>
             <content>
               <p>Каждый человек должен обладать всеми правами и всеми свободами, провозглашенными настоящей Декларацией, без какого бы то ни было различия, как-то в отношении расы, цвета кожи, пола, языка, религии, политических или иных убеждений, национального или социального происхождения, имущественного, сословного или иного положения.</p>
               <p>Кроме того, не должно проводиться никакого различия на основе политического, правового или международного статуса страны или территории, к которой человек принадлежит, независимо от того, является ли эта территория независимой, подопечной, несамоуправляющейся или как-либо иначе ограниченной в своем суверенитете.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_3">
+          <article eId="cmp_rus__art_3" GUID="C9276E2D-DF5F-44A1-9658-882F9C078A53">
             <num>Статья 3</num>
             <content>
               <p>Каждый человек имеет право на жизнь, на свободу и на личную неприкосновенность.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_4">
+          <article eId="cmp_rus__art_4" GUID="CB5B0929-D2CA-4B19-9BE8-9D671F6908BE">
             <num>Статья 4</num>
             <content>
               <p>Никто не должен содержаться в рабстве или в подневольном состоянии; рабство и работорговля запрещаются во всех их видах.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_5">
+          <article eId="cmp_rus__art_5" GUID="1F33AFD9-EAE0-484E-93FE-8B4E4D14ABE9">
             <num>Статья 5</num>
             <content>
               <p>Никто не должен подвергаться пыткам или жестоким, бесчеловечным или унижающим его достоинство обращению и наказанию.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_6">
+          <article eId="cmp_rus__art_6" GUID="75166013-4E9C-4A00-B4ED-1A3D7D3A1A9F">
             <num>Статья 6</num>
             <content>
               <p>Каждый человек, где бы он ни находился, имеет право на признание его правосубъектности.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_7">
+          <article eId="cmp_rus__art_7" GUID="A452C474-430B-4AE4-BCE5-DF2F0A350A63">
             <num>Статья 7</num>
             <content>
               <p>Все люди равны перед законом и имеют право, без всякого различия, на равную защиту закона. Все люди имеют право на равную защиту от какой бы то ни было дискриминации, нарушающей настоящую Декларацию, и от какого бы то ни было подстрекательства к такой дискриминации.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_8">
+          <article eId="cmp_rus__art_8" GUID="E5627CAE-0D6B-4966-B1B4-252C572680D2">
             <num>Статья 8</num>
             <content>
               <p>Каждый человек имеет право на эффективное восстановление в правах компетентными национальными судами в случаях нарушения его основных прав, предоставленных ему конституцией или законом.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_9">
+          <article eId="cmp_rus__art_9" GUID="DD8C88FF-EAC0-4273-815D-16692EDB91B3">
             <num>Статья 9</num>
             <content>
               <p>Никто не может быть подвергнут произвольному аресту, задержанию или изгнанию.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_10">
+          <article eId="cmp_rus__art_10" GUID="7A2ABFA5-F427-4575-8BAA-27C942C1A00F">
             <num>Статья 10</num>
             <content>
               <p>Каждый человек, для определения его прав и обязанностей и для установления обоснованности предъявленного ему уголовного обвинения, имеет право, на основе полного равенства, на то, чтобы его дело было рассмотрено гласно и с соблюдением всех требований справедливости независимым и беспристрастным судом.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_11">
+          <article eId="cmp_rus__art_11" GUID="070E50C4-7520-4019-A0C4-0210780B2645">
             <num>Статья 11</num>
-            <paragraph eId="cmp_rus__art_11__para_1"><num>1.</num><content><p>Каждый человек, обвиняемый в совершении преступления, имеет право считаться невиновным до тех пор, пока его виновность не будет установлена законным порядком путем гласного судебного разбирательства, при котором ему обеспечиваются все возможности для защиты.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_11__para_2"><num>2.</num><content><p>Никто не может быть осужден за преступление на основании совершения какого-либо деяния или за бездействие, которые во время их совершения не составляли преступления по национальным законам или по международному праву. Не может также налагаться наказание более тяжкое, нежели то, которое могло быть применено в то время, когда преступление было совершено.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_11__para_1" GUID="92A40789-6F2E-49EA-8B58-239566C655DC"><num>1.</num><content><p>Каждый человек, обвиняемый в совершении преступления, имеет право считаться невиновным до тех пор, пока его виновность не будет установлена законным порядком путем гласного судебного разбирательства, при котором ему обеспечиваются все возможности для защиты.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_11__para_2" GUID="447C4143-EE56-42B0-A8E9-78C92800393E"><num>2.</num><content><p>Никто не может быть осужден за преступление на основании совершения какого-либо деяния или за бездействие, которые во время их совершения не составляли преступления по национальным законам или по международному праву. Не может также налагаться наказание более тяжкое, нежели то, которое могло быть применено в то время, когда преступление было совершено.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_12">
+          <article eId="cmp_rus__art_12" GUID="3741FA5E-5CD5-41A8-B1D5-77E21BE072A0">
             <num>Статья 12</num>
             <content>
               <p>Никто не может подвергаться произвольному вмешательству в его личную и семейную жизнь, произвольным посягательствам на неприкосновенность его жилища, тайну его корреспонденции или на его честь и репутацию. Каждый человек имеет право на защиту закона от такого вмешательства или таких посягательств.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_13">
+          <article eId="cmp_rus__art_13" GUID="CE9B1209-0245-4599-B3FA-32F6E2B5884F">
             <num>Статья 13</num>
-            <paragraph eId="cmp_rus__art_13__para_1"><num>1.</num><content><p>Каждый человек имеет право свободно передвигаться и выбирать себе местожительство в пределах каждого государства.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_13__para_2"><num>2.</num><content><p>Каждый человек имеет право покидать любую страну, включая свою собственную, и возвращаться в свою страну.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_13__para_1" GUID="E07602BD-1D01-457A-B996-DA285404D573"><num>1.</num><content><p>Каждый человек имеет право свободно передвигаться и выбирать себе местожительство в пределах каждого государства.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_13__para_2" GUID="B8203AC7-ECE2-4C8A-9FD2-E1FADFE7DCC0"><num>2.</num><content><p>Каждый человек имеет право покидать любую страну, включая свою собственную, и возвращаться в свою страну.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_14">
+          <article eId="cmp_rus__art_14" GUID="FC9BE77F-FF37-484E-8325-B52B22B078A4">
             <num>Статья 14</num>
-            <paragraph eId="cmp_rus__art_14__para_1"><num>1.</num><content><p>Каждый человек имеет право искать убежища от преследования в других странах и пользоваться этим убежищем.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_14__para_2"><num>2.</num><content><p>Это право не может быть использовано в случае преследования, в действительности основанного на совершении неполитического преступления, или деяния, противоречащего целям и принципам Организации Объединенных Наций.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_14__para_1" GUID="B5AE29B5-E8B1-4145-90B1-C82E122AED6C"><num>1.</num><content><p>Каждый человек имеет право искать убежища от преследования в других странах и пользоваться этим убежищем.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_14__para_2" GUID="11FD0F3C-5A15-4B3D-89A1-8985E92C67AB"><num>2.</num><content><p>Это право не может быть использовано в случае преследования, в действительности основанного на совершении неполитического преступления, или деяния, противоречащего целям и принципам Организации Объединенных Наций.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_15">
+          <article eId="cmp_rus__art_15" GUID="AD2BA29A-BE0C-4CB9-917F-41B1CEB27CFB">
             <num>Статья 15</num>
-            <paragraph eId="cmp_rus__art_15__para_1"><num>1.</num><content><p>Каждый человек имеет право на гражданство.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_15__para_2"><num>2.</num><content><p>Никто не может быть произвольно лишен своего гражданства или права изменить свое гражданство.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_15__para_1" GUID="02CDF2B7-A88A-4562-AA52-A5FA0E18B8BE"><num>1.</num><content><p>Каждый человек имеет право на гражданство.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_15__para_2" GUID="CE56CDA6-D289-4062-B839-C18AE74B2AB7"><num>2.</num><content><p>Никто не может быть произвольно лишен своего гражданства или права изменить свое гражданство.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_16">
+          <article eId="cmp_rus__art_16" GUID="BBBB5593-B777-439A-A8CA-55A189F10D4E">
             <num>Статья 16</num>
-            <paragraph eId="cmp_rus__art_16__para_1"><num>1.</num><content><p>Мужчины и женщины, достигшие совершеннолетия, имеют право без всяких ограничений по признаку расы, национальности или религии вступать в брак и основывать свою семью. Они пользуются одинаковыми правами в отношении вступления в брак, во время состояния в браке и во время его расторжения.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_16__para_2"><num>2.</num><content><p>Брак может быть заключен только при свободном и полном согласии обеих вступающих в брак сторон.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_16__para_3"><num>3.</num><content><p>Семья является естественной и основной ячейкой общества и имеет право на защиту со стороны общества и государства.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_16__para_1" GUID="BEB49B3C-850F-484F-8574-5A5B463B3781"><num>1.</num><content><p>Мужчины и женщины, достигшие совершеннолетия, имеют право без всяких ограничений по признаку расы, национальности или религии вступать в брак и основывать свою семью. Они пользуются одинаковыми правами в отношении вступления в брак, во время состояния в браке и во время его расторжения.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_16__para_2" GUID="02A6F248-0D5E-4252-B702-04B6EFD3F201"><num>2.</num><content><p>Брак может быть заключен только при свободном и полном согласии обеих вступающих в брак сторон.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_16__para_3" GUID="16E1D3DF-B968-4C2B-8F2A-713B86A977FF"><num>3.</num><content><p>Семья является естественной и основной ячейкой общества и имеет право на защиту со стороны общества и государства.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_17">
+          <article eId="cmp_rus__art_17" GUID="E3227CAE-358C-46DF-81E8-DA2B122CE32A">
             <num>Статья 17</num>
-            <paragraph eId="cmp_rus__art_17__para_1"><num>1.</num><content><p>Каждый человек имеет право владеть имуществом как единолично, так и совместно с другими.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_17__para_2"><num>2.</num><content><p>Никто не должен быть произвольно лишен своего имущества.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_17__para_1" GUID="BDF46EF9-66A0-4A5B-AA27-D7CE04292791"><num>1.</num><content><p>Каждый человек имеет право владеть имуществом как единолично, так и совместно с другими.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_17__para_2" GUID="D64E1690-135C-4956-B81C-5C4457E2F0C5"><num>2.</num><content><p>Никто не должен быть произвольно лишен своего имущества.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_18">
+          <article eId="cmp_rus__art_18" GUID="8947F421-1C47-430C-894C-F4C54E481A90">
             <num>Статья 18</num>
             <content>
               <p>Каждый человек имеет право на свободу мысли, совести и религии; это право включает свободу менять свою религию или убеждения и свободу исповедовать свою религию или убеждения как единолично, так и сообща с другими, публичным или частным порядком в учении, богослужении и выполнении религиозных и ритуальных обрядов.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_19">
+          <article eId="cmp_rus__art_19" GUID="5F0CF893-B619-4886-846A-1CCBBF550949">
             <num>Статья 19</num>
             <content>
               <p>Каждый человек имеет право на свободу убеждений и на свободное выражение их; это право включает свободу беспрепятственно придерживаться своих убеждений и свободу искать, получать и распространять информацию и идеи любыми средствами и независимо от государственных границ.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_20">
+          <article eId="cmp_rus__art_20" GUID="6D29CB5F-D458-4252-AFB9-5A6D2FAFA4D5">
             <num>Статья 20</num>
-            <paragraph eId="cmp_rus__art_20__para_1"><num>1.</num><content><p>Каждый человек имеет право на свободу мирных собраний и ассоциаций.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_20__para_2"><num>2.</num><content><p>Никто не может быть принуждаем вступать в какую-либо ассоциацию.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_20__para_1" GUID="347D993C-0DB2-4EFA-B71A-EB6539FD3ED2"><num>1.</num><content><p>Каждый человек имеет право на свободу мирных собраний и ассоциаций.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_20__para_2" GUID="17610E90-F400-4733-A101-727DB2C0E7D9"><num>2.</num><content><p>Никто не может быть принуждаем вступать в какую-либо ассоциацию.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_21">
+          <article eId="cmp_rus__art_21" GUID="35B47EF5-040F-40DD-AC54-69E2CE63B04E">
             <num>Статья 21</num>
-            <paragraph eId="cmp_rus__art_21__para_1"><num>1.</num><content><p>Каждый человек имеет право принимать участие в управлении своей страной непосредственно или через посредство свободно избранных представителей.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_21__para_2"><num>2.</num><content><p>Каждый человек имеет право равного доступа к государственной службе в своей стране.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_21__para_3"><num>3.</num><content><p>Воля народа должна быть основой власти правительства; эта воля должна находить себе выражение в периодических и нефальсифицированных выборах, которые должны проводиться при всеобщем и равном избирательном праве путем тайного голосования или же посредством других равнозначных форм, обеспечивающих свободу голосования.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_21__para_1" GUID="F4D0ADC6-800E-452F-8C64-701215A924BE"><num>1.</num><content><p>Каждый человек имеет право принимать участие в управлении своей страной непосредственно или через посредство свободно избранных представителей.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_21__para_2" GUID="37DF89A9-FC0E-4323-87D6-CEF448CB5DBE"><num>2.</num><content><p>Каждый человек имеет право равного доступа к государственной службе в своей стране.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_21__para_3" GUID="4FD3BDFF-FDBC-4F87-B6D9-9C96835D26B8"><num>3.</num><content><p>Воля народа должна быть основой власти правительства; эта воля должна находить себе выражение в периодических и нефальсифицированных выборах, которые должны проводиться при всеобщем и равном избирательном праве путем тайного голосования или же посредством других равнозначных форм, обеспечивающих свободу голосования.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_22">
+          <article eId="cmp_rus__art_22" GUID="D6CDF9AF-1A6D-4D18-9536-E8359EF06127">
             <num>Статья 22</num>
             <content>
               <p>Каждый человек, как член общества, имеет право на социальное обеспечение и на осуществление необходимых для поддержания его достоинства и для свободного развития его личности прав в экономической, социальной и культурной областях через посредство национальных усилий и международного сотрудничества и в соответствии со структурой и ресурсами каждого государства.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_23">
+          <article eId="cmp_rus__art_23" GUID="909573E6-BDB1-4551-A984-5A681087C88C">
             <num>Статья 23</num>
-            <paragraph eId="cmp_rus__art_23__para_1"><num>1.</num><content><p>Каждый человек имеет право на труд, на свободный выбор работы, на справедливые и благоприятные условия труда и на защиту от безработицы.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_23__para_2"><num>2.</num><content><p>Каждый человек, без какой-либо дискриминации, имеет право на равную оплату за равный труд.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_23__para_3"><num>3.</num><content><p>Каждый работающий имеет право на справедливое и удовлетворительное вознаграждение, обеспечивающее достойное человека существование для него самого и его семьи, и дополняемое, при необходимости, другими средствами социального обеспечения.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_23__para_4"><num>4.</num><content><p>Каждый человек имеет право создавать профессиональные союзы и входить в профессиональные союзы для защиты своих интересов.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_23__para_1" GUID="6FFB28D9-F898-4CE6-A731-2021FAFB264A"><num>1.</num><content><p>Каждый человек имеет право на труд, на свободный выбор работы, на справедливые и благоприятные условия труда и на защиту от безработицы.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_23__para_2" GUID="AF40E1C6-B419-47DC-871E-557FF14A8634"><num>2.</num><content><p>Каждый человек, без какой-либо дискриминации, имеет право на равную оплату за равный труд.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_23__para_3" GUID="A1929E59-D068-44AC-8F0F-229EF5AB5CA5"><num>3.</num><content><p>Каждый работающий имеет право на справедливое и удовлетворительное вознаграждение, обеспечивающее достойное человека существование для него самого и его семьи, и дополняемое, при необходимости, другими средствами социального обеспечения.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_23__para_4" GUID="30C8079E-BBA9-48DD-898A-6EE2D08B6D06"><num>4.</num><content><p>Каждый человек имеет право создавать профессиональные союзы и входить в профессиональные союзы для защиты своих интересов.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_24">
+          <article eId="cmp_rus__art_24" GUID="FACB2F18-6A92-44C3-B7B9-A2CD6E5B1EF3">
             <num>Статья 24</num>
             <content>
               <p>Каждый человек имеет право на отдых и досуг, включая право на разумное ограничение рабочего дня и на оплачиваемый периодический отпуск.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_25">
+          <article eId="cmp_rus__art_25" GUID="FFFBF187-DE52-4F99-93A7-0EA0FD60B822">
             <num>Статья 25</num>
-            <paragraph eId="cmp_rus__art_25__para_1"><num>1.</num><content><p>Каждый человек имеет право на такой жизненный уровень, включая пищу, одежду, жилище, медицинский уход и необходимое социальное обслуживание, который необходим для поддержания здоровья и благосостояния его самого и его семьи, и право на обеспечение на случай безработицы, болезни, инвалидности, вдовства, наступления старости или иного случая утраты средств к существованию по не зависящим от него обстоятельствам.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_25__para_2"><num>2.</num><content><p>Материнство и младенчество дают право на особое попечение и помощь. Все дети, родившиеся в браке или вне брака, должны пользоваться одинаковой социальной защитой.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_25__para_1" GUID="994B6F7B-29E0-48D4-83E7-D5C44101066F"><num>1.</num><content><p>Каждый человек имеет право на такой жизненный уровень, включая пищу, одежду, жилище, медицинский уход и необходимое социальное обслуживание, который необходим для поддержания здоровья и благосостояния его самого и его семьи, и право на обеспечение на случай безработицы, болезни, инвалидности, вдовства, наступления старости или иного случая утраты средств к существованию по не зависящим от него обстоятельствам.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_25__para_2" GUID="62FE17D9-598C-4B8F-A6C7-02F096A7497C"><num>2.</num><content><p>Материнство и младенчество дают право на особое попечение и помощь. Все дети, родившиеся в браке или вне брака, должны пользоваться одинаковой социальной защитой.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_26">
+          <article eId="cmp_rus__art_26" GUID="69201AE4-D121-442F-8277-17AA0824E3DF">
             <num>Статья 26</num>
-            <paragraph eId="cmp_rus__art_26__para_1"><num>1.</num><content><p>Каждый человек имеет право на образование. Образование должно быть бесплатным по меньшей мере в том, что касается начального и общего образования. Начальное образование должно быть обязательным. Техническое и профессиональное образование должно быть общедоступным, и высшее образование должно быть одинаково доступным для всех на основе способностей каждого.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_26__para_2"><num>2.</num><content><p>Образование должно быть направлено к полному развитию человеческой личности и к увеличению уважения к правам человека и основным свободам. Образование должно содействовать взаимопониманию, терпимости и дружбе между всеми народами, расовыми и религиозными группами, и должно содействовать деятельности Организации Объединенных Наций по поддержанию мира.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_26__para_3"><num>3.</num><content><p>Родители имеют право приоритета в выборе вида образования для своих малолетних детей.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_26__para_1" GUID="1FB91A83-0A08-47CC-A8BB-83C7966582CD"><num>1.</num><content><p>Каждый человек имеет право на образование. Образование должно быть бесплатным по меньшей мере в том, что касается начального и общего образования. Начальное образование должно быть обязательным. Техническое и профессиональное образование должно быть общедоступным, и высшее образование должно быть одинаково доступным для всех на основе способностей каждого.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_26__para_2" GUID="46654B89-4860-47B2-912E-96F452CC8E97"><num>2.</num><content><p>Образование должно быть направлено к полному развитию человеческой личности и к увеличению уважения к правам человека и основным свободам. Образование должно содействовать взаимопониманию, терпимости и дружбе между всеми народами, расовыми и религиозными группами, и должно содействовать деятельности Организации Объединенных Наций по поддержанию мира.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_26__para_3" GUID="0A88B488-3A54-4328-B9AB-814ABBED0B4A"><num>3.</num><content><p>Родители имеют право приоритета в выборе вида образования для своих малолетних детей.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_27">
+          <article eId="cmp_rus__art_27" GUID="FDA192BF-0B16-441A-B9FD-23301E0FE1BE">
             <num>Статья 27</num>
-            <paragraph eId="cmp_rus__art_27__para_1"><num>1.</num><content><p>Каждый человек имеет право свободно участвовать в культурной жизни общества, наслаждаться искусством, участвовать в научном прогрессе и пользоваться его благами.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_27__para_2"><num>2.</num><content><p>Каждый человек имеет право на защиту его моральных и материальных интересов, являющихся результатом научных, литературных или художественных трудов, автором которых он является.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_27__para_1" GUID="5F4B4969-5784-48D0-90E0-FFF0A8998CEE"><num>1.</num><content><p>Каждый человек имеет право свободно участвовать в культурной жизни общества, наслаждаться искусством, участвовать в научном прогрессе и пользоваться его благами.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_27__para_2" GUID="B268C8DF-F249-4CDB-8997-938D0B58AF35"><num>2.</num><content><p>Каждый человек имеет право на защиту его моральных и материальных интересов, являющихся результатом научных, литературных или художественных трудов, автором которых он является.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_28">
+          <article eId="cmp_rus__art_28" GUID="A46993DD-7BC3-4062-A2F4-919991132D3B">
             <num>Статья 28</num>
             <content>
               <p>Каждый человек имеет право на социальный и международный порядок, при котором права и свободы, изложенные в настоящей Декларации, могут быть полностью осуществлены.</p>
             </content>
           </article>
-          <article eId="cmp_rus__art_29">
+          <article eId="cmp_rus__art_29" GUID="F27DBA1C-F6BA-41FD-8423-E4F5E8F98ECF">
             <num>Статья 29</num>
-            <paragraph eId="cmp_rus__art_29__para_1"><num>1.</num><content><p>Каждый человек имеет обязанности перед обществом, в котором только и возможно свободное и полное развитие его личности.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_29__para_2"><num>2.</num><content><p>При осуществлении своих прав и свобод каждый человек должен подвергаться только таким ограничениям, какие установлены законом исключительно с целью обеспечения должного признания и уважения прав и свобод других и удовлетворения справедливых требований морали, общественного порядка и общего благосостояния в демократическом обществе.</p></content></paragraph>
-            <paragraph eId="cmp_rus__art_29__para_3"><num>3.</num><content><p>Осуществление этих прав и свобод ни в коем случае не должно противоречить целям и принципам Организации Объединенных Наций.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_29__para_1" GUID="C1489ECD-4576-4949-91AE-2B9FA4C785AE"><num>1.</num><content><p>Каждый человек имеет обязанности перед обществом, в котором только и возможно свободное и полное развитие его личности.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_29__para_2" GUID="3E74F41D-73C3-4919-8399-5C7C3363698A"><num>2.</num><content><p>При осуществлении своих прав и свобод каждый человек должен подвергаться только таким ограничениям, какие установлены законом исключительно с целью обеспечения должного признания и уважения прав и свобод других и удовлетворения справедливых требований морали, общественного порядка и общего благосостояния в демократическом обществе.</p></content></paragraph>
+            <paragraph eId="cmp_rus__art_29__para_3" GUID="A148A0D5-A700-401E-A108-21D138C51DD8"><num>3.</num><content><p>Осуществление этих прав и свобод ни в коем случае не должно противоречить целям и принципам Организации Объединенных Наций.</p></content></paragraph>
           </article>
-          <article eId="cmp_rus__art_30">
+          <article eId="cmp_rus__art_30" GUID="6EA6A3F1-22E2-4F70-8AD2-977F91CC01E2">
             <num>Статья 30</num>
             <content>
               <p>Ничто в настоящей Декларации не может быть истолковано, как предоставление какому-либо государству, группе лиц или отдельным лицам права заниматься какой-либо деятельностью или совершать действия, направленные к уничтожению прав и свобод, изложенных в настоящей Декларации.</p>
@@ -1197,7 +1197,7 @@
         </mainBody>
       </statement>
       </component>
-      <component eId="cmp_spa">
+      <component eId="cmp_spa" GUID="FE55EAE7-1DA4-4CD9-A76D-574E088172D6">
       <statement name="declaration" contains="originalVersion">
         <meta>
           <identification source="#gv_spa">
@@ -1226,25 +1226,25 @@
             </FRBRManifestation>
           </identification>
           <references source="#gv_spa">
-            <TLCOrganization eId="unga_spa" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
-            <TLCPerson eId="gv_spa" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
-            <TLCRole eId="author_spa" href="/ontology/role/author" showAs="Author"/>
-            <TLCRole eId="editor_spa" href="/ontology/role/editor" showAs="Editor"/>
+            <TLCOrganization eId="unga_spa" GUID="834F60AD-2C84-4ABE-B4DE-CC799DA35B70" href="/ontology/organization/un.generalAssembly" showAs="United Nations General Assembly"/>
+            <TLCPerson eId="gv_spa" GUID="57F1A966-C0E5-4B0E-BB1B-B8C66C8675CC" href="/ontology/person/us.grantVergottini" showAs="Grant Vergottini"/>
+            <TLCRole eId="author_spa" GUID="2A0B557E-A266-49A5-8C12-80721632E8BF" href="/ontology/role/author" showAs="Author"/>
+            <TLCRole eId="editor_spa" GUID="B759911C-D486-48BF-AB13-BF5BF548C981" href="/ontology/role/editor" showAs="Editor"/>
           </references>
         </meta>
         <preface xml:lang="es">
           <p class="title"><docTitle>La Declaración Universal de los Derechos Humanos</docTitle></p>
         </preface>
         <preamble xml:lang="es">
-          <container name="preambleHeading" eId="cmp_spa__pre"><p class="preHead">Preámbulo</p></container>
+          <container name="preambleHeading" eId="cmp_spa__pre" GUID="5AB78BD4-5B8C-4689-9382-E95C0492D061"><p class="preHead">Preámbulo</p></container>
           <recitals>
-            <recital eId="cmp_spa__rec_1"><p>Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana;</p></recital>
-            <recital eId="cmp_spa__rec_2"><p>Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado actos de barbarie ultrajantes para la conciencia de la humanidad, y que se ha proclamado, como la aspiración más elevada del hombre, el advenimiento de un mundo en que los seres humanos, liberados del temor y de la miseria, disfruten de la libertad de palabra y de la libertad de creencias;</p></recital>
-            <recital eId="cmp_spa__rec_3"><p>Considerando esencial que los derechos humanos sean protegidos por un régimen de Derecho, a fin de que el hombre no se vea compelido al supremo recurso de la rebelión contra la tiranía y la opresión;</p></recital>
-            <recital eId="cmp_spa__rec_4"><p>Considerando también esencial promover el desarrollo de relaciones amistosas entre las naciones;</p></recital>
-            <recital eId="cmp_spa__rec_5"><p>Considerando que los pueblos de las Naciones Unidas han reafirmado en la Carta su fe en los derechos fundamentales del hombre, en la dignidad y el valor de la persona humana y en la igualdad de derechos de hombres y mujeres, y se han declarado resueltos a promover el progreso social y a elevar el nivel de vida dentro de un concepto más amplio de la libertad;</p></recital>
-            <recital eId="cmp_spa__rec_6"><p>Considerando que los Estados Miembros se han comprometido a asegurar, en cooperación con la Organización de las Naciones Unidas, el respeto universal y efectivo a los derechos y libertades fundamentales del hombre, y</p></recital>
-            <recital eId="cmp_spa__rec_7"><p>Considerando que una concepción común de estos derechos y libertades es de la mayor importancia para el pleno cumplimiento de dicho compromiso;</p></recital>
+            <recital eId="cmp_spa__rec_1" GUID="951429D2-2755-4835-89DA-8113E008E15F"><p>Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana;</p></recital>
+            <recital eId="cmp_spa__rec_2" GUID="20AC6EE9-0E07-4089-801B-35972B231267"><p>Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado actos de barbarie ultrajantes para la conciencia de la humanidad, y que se ha proclamado, como la aspiración más elevada del hombre, el advenimiento de un mundo en que los seres humanos, liberados del temor y de la miseria, disfruten de la libertad de palabra y de la libertad de creencias;</p></recital>
+            <recital eId="cmp_spa__rec_3" GUID="3BA3C105-7A34-4CF0-B664-89593A5F539D"><p>Considerando esencial que los derechos humanos sean protegidos por un régimen de Derecho, a fin de que el hombre no se vea compelido al supremo recurso de la rebelión contra la tiranía y la opresión;</p></recital>
+            <recital eId="cmp_spa__rec_4" GUID="BB8FEE66-C6A9-45CF-BE25-064847872EAF"><p>Considerando también esencial promover el desarrollo de relaciones amistosas entre las naciones;</p></recital>
+            <recital eId="cmp_spa__rec_5" GUID="DDC817D7-84EC-43B2-BBFB-C602BC71BFEE"><p>Considerando que los pueblos de las Naciones Unidas han reafirmado en la Carta su fe en los derechos fundamentales del hombre, en la dignidad y el valor de la persona humana y en la igualdad de derechos de hombres y mujeres, y se han declarado resueltos a promover el progreso social y a elevar el nivel de vida dentro de un concepto más amplio de la libertad;</p></recital>
+            <recital eId="cmp_spa__rec_6" GUID="5048D8B7-981E-44C1-BED1-E65167B9B58D"><p>Considerando que los Estados Miembros se han comprometido a asegurar, en cooperación con la Organización de las Naciones Unidas, el respeto universal y efectivo a los derechos y libertades fundamentales del hombre, y</p></recital>
+            <recital eId="cmp_spa__rec_7" GUID="DF05409C-07F2-4AB3-9277-FB6337605672"><p>Considerando que una concepción común de estos derechos y libertades es de la mayor importancia para el pleno cumplimiento de dicho compromiso;</p></recital>
           </recitals>
           <formula name="enactingFormula">
             <p>Ahora, por tanto,</p>
@@ -1253,174 +1253,174 @@
           </formula>
         </preamble>
         <mainBody xml:lang="es">
-          <article eId="cmp_spa__art_1">
+          <article eId="cmp_spa__art_1" GUID="3DF97D65-011E-4CC3-BF20-C79336271394">
             <num>Artículo 1</num>
             <content>
               <p>Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_2">
+          <article eId="cmp_spa__art_2" GUID="691B137E-28DE-4DB0-8DE5-7C846B8F9E87">
             <num>Artículo 2</num>
             <content>
               <p>Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición. Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional del país o territorio de cuya jurisdicción dependa una persona, tanto si se trata de un país independiente, como de un territorio bajo administración fiduciaria, no autónomo o sometido a cualquier otra limitación de soberanía.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_3">
+          <article eId="cmp_spa__art_3" GUID="0EF2064F-79C2-4B3E-AA8B-AB2E4306AB51">
             <num>Artículo 3</num>
             <content>
               <p>Todo individuo tiene derecho a la vida, a la libertad y a la seguridad de su persona.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_4">
+          <article eId="cmp_spa__art_4" GUID="63C0335E-ED10-4731-B754-0BD9B9033750">
             <num>Artículo 4</num>
             <content>
               <p>Nadie estará sometido a esclavitud ni a servidumbre, la esclavitud y la trata de esclavos están prohibidas en todas sus formas.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_5">
+          <article eId="cmp_spa__art_5" GUID="AF0C1598-E54B-4768-A1CC-4E912D8B229F">
             <num>Artículo 5</num>
             <content>
               <p>Nadie será sometido a torturas ni a penas o tratos crueles, inhumanos o degradantes.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_6">
+          <article eId="cmp_spa__art_6" GUID="9C7154C4-5630-4A79-98D1-54D33E325E74">
             <num>Artículo 6</num>
             <content>
               <p>Todo ser humano tiene derecho, en todas partes, al reconocimiento de su personalidad jurídica.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_7">
+          <article eId="cmp_spa__art_7" GUID="FA7A54A3-00DB-46AA-87C0-E0880AAC0797">
             <num>Artículo 7</num>
             <content>
               <p>Todos son iguales ante la ley y tienen, sin distinción, derecho a igual protección de la ley. Todos tienen derecho a igual protección contra toda discriminación que infrinja esta Declaración y contra toda provocación a tal discriminación.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_8">
+          <article eId="cmp_spa__art_8" GUID="0DA65FCE-26F4-49AE-98CB-36AD2709D058">
             <num>Artículo 8</num>
             <content>
               <p>Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes, que la ampare contra actos que violen sus derechos fundamentales reconocidos por la constitución o por la ley.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_9">
+          <article eId="cmp_spa__art_9" GUID="A6F0085F-DD0F-4532-91E0-608AD7DAE57A">
             <num>Artículo 9</num>
             <content>
               <p>Nadie podrá ser arbitrariamente detenido, preso ni desterrado.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_10">
+          <article eId="cmp_spa__art_10" GUID="188A650C-2C1A-4452-8764-FEBBAF242189">
             <num>Artículo 10</num>
             <content>
               <p>Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial, para la determinación de sus derechos y obligaciones o para el examen de cualquier acusación contra ella en materia penal.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_11">
+          <article eId="cmp_spa__art_11" GUID="949E35B9-66E3-4429-B034-3A07567C813B">
             <num>Artículo 11</num>
-            <paragraph eId="cmp_spa__art_11__para_1"><num>1.</num><content><p>Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad, conforme a la ley y en juicio público en el que se le hayan asegurado todas las garantías necesarias para su defensa.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_11__para_2"><num>2.</num><content><p>Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron delictivos según el Derecho nacional o internacional. Tampoco se impondrá pena más grave que la aplicable en el momento de la comisión del delito.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_11__para_1" GUID="0EA39FA3-D3CC-4FCF-96E5-6B8EF6F28103"><num>1.</num><content><p>Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad, conforme a la ley y en juicio público en el que se le hayan asegurado todas las garantías necesarias para su defensa.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_11__para_2" GUID="B3B6B123-A83D-47E5-A9A1-22ECCAFA5040"><num>2.</num><content><p>Nadie será condenado por actos u omisiones que en el momento de cometerse no fueron delictivos según el Derecho nacional o internacional. Tampoco se impondrá pena más grave que la aplicable en el momento de la comisión del delito.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_12">
+          <article eId="cmp_spa__art_12" GUID="A6685AA5-57E9-498F-9312-C18223FA8604">
             <num>Artículo 12</num>
             <content>
               <p>Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación. Toda persona tiene derecho a la protección de la ley contra tales injerencias o ataques.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_13">
+          <article eId="cmp_spa__art_13" GUID="8E768908-62C3-4929-95FD-CCC71ABE1C77">
             <num>Artículo 13</num>
-            <paragraph eId="cmp_spa__art_13__para_1"><num>1.</num><content><p>Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_13__para_2"><num>2.</num><content><p>Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_13__para_1" GUID="3E9B440F-7287-4231-BFCF-625397E2EAE1"><num>1.</num><content><p>Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_13__para_2" GUID="C78DAC89-5BAA-4F57-B915-E1BB3A2F85FF"><num>2.</num><content><p>Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_14">
+          <article eId="cmp_spa__art_14" GUID="05A166FB-65FF-42B7-8C41-F5B8B8B0D9C3">
             <num>Artículo 14</num>
-            <paragraph eId="cmp_spa__art_14__para_1"><num>1.</num><content><p>En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en cualquier país.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_14__para_2"><num>2.</num><content><p>Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_14__para_1" GUID="C2341EA0-92C6-4B7D-898C-411E3BD47DA1"><num>1.</num><content><p>En caso de persecución, toda persona tiene derecho a buscar asilo, y a disfrutar de él, en cualquier país.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_14__para_2" GUID="30F2B543-F4DA-4BCF-BE67-6551133E6C89"><num>2.</num><content><p>Este derecho no podrá ser invocado contra una acción judicial realmente originada por delitos comunes o por actos opuestos a los propósitos y principios de las Naciones Unidas.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_15">
+          <article eId="cmp_spa__art_15" GUID="71A50497-BDE2-4D8B-8E59-3408E6ED57F3">
             <num>Artículo 15</num>
-            <paragraph eId="cmp_spa__art_15__para_1"><num>1.</num><content><p>Toda persona tiene derecho a una nacionalidad.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_15__para_2"><num>2.</num><content><p>A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_15__para_1" GUID="54292F28-2350-42F3-A7CA-345C89240C74"><num>1.</num><content><p>Toda persona tiene derecho a una nacionalidad.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_15__para_2" GUID="D1441623-ECDE-4F88-BFEB-DB1C512D763C"><num>2.</num><content><p>A nadie se privará arbitrariamente de su nacionalidad ni del derecho a cambiar de nacionalidad.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_16">
+          <article eId="cmp_spa__art_16" GUID="3182543D-F333-4F8B-A49D-126039777984">
             <num>Artículo 16</num>
-            <paragraph eId="cmp_spa__art_16__para_1"><num>1.</num><content><p>Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por motivos de raza, nacionalidad o religión, a casarse y fundar una familia, y disfrutarán de iguales derechos en cuanto al matrimonio, durante el matrimonio y en caso de disolución del matrimonio.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_16__para_2"><num>2.</num><content><p>Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_16__para_3"><num>3.</num><content><p>La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_16__para_1" GUID="A0694921-1EDA-48DD-9506-B333D03BD7CF"><num>1.</num><content><p>Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por motivos de raza, nacionalidad o religión, a casarse y fundar una familia, y disfrutarán de iguales derechos en cuanto al matrimonio, durante el matrimonio y en caso de disolución del matrimonio.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_16__para_2" GUID="53FF7CCB-0148-496C-9290-DD4ED89BA940"><num>2.</num><content><p>Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_16__para_3" GUID="C1A3B7F1-A7AB-40B2-A74A-2225BC66348D"><num>3.</num><content><p>La familia es el elemento natural y fundamental de la sociedad y tiene derecho a la protección de la sociedad y del Estado.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_17">
+          <article eId="cmp_spa__art_17" GUID="589505D5-B555-401B-B965-81B60493DB76">
             <num>Artículo 17</num>
-            <paragraph eId="cmp_spa__art_17__para_1"><num>1.</num><content><p>Toda persona tiene derecho a la propiedad, individual y colectivamente.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_17__para_2"><num>2.</num><content><p>Nadie será privado arbitrariamente de su propiedad.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_17__para_1" GUID="4079AD4C-C15E-4028-97A2-82CC3D131CF5"><num>1.</num><content><p>Toda persona tiene derecho a la propiedad, individual y colectivamente.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_17__para_2" GUID="19749714-11A9-4A42-8985-0F3E79368299"><num>2.</num><content><p>Nadie será privado arbitrariamente de su propiedad.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_18">
+          <article eId="cmp_spa__art_18" GUID="6AE4D9B2-F2E4-4BF8-93EF-B27E56188ED1">
             <num>Artículo 18</num>
             <content>
               <p>Toda persona tiene derecho a la libertad de pensamiento, de conciencia y de religión; este derecho incluye la libertad de cambiar de religión o de creencia, así como la libertad de manifestar su religión o su creencia, individual y colectivamente, tanto en público como en privado, por la enseñanza, la práctica, el culto y la observancia.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_19">
+          <article eId="cmp_spa__art_19" GUID="63530685-FD82-4677-A119-12D92C818EB3">
             <num>Artículo 19</num>
             <content>
               <p>Todo individuo tiene derecho a la libertad de opinión y de expresión; este derecho incluye el de no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_20">
+          <article eId="cmp_spa__art_20" GUID="8AF8F2FB-0E68-464E-BBDD-AC60FD7B8C2B">
             <num>Artículo 20</num>
-            <paragraph eId="cmp_spa__art_20__para_1"><num>1.</num><content><p>Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_20__para_2"><num>2.</num><content><p>Nadie podrá ser obligado a pertenecer a una asociación.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_20__para_1" GUID="75C6329F-FBB2-40DC-8E31-C40946513A4A"><num>1.</num><content><p>Toda persona tiene derecho a la libertad de reunión y de asociación pacíficas.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_20__para_2" GUID="1C2331DA-5348-452D-85AB-E94D0740C0E7"><num>2.</num><content><p>Nadie podrá ser obligado a pertenecer a una asociación.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_21">
+          <article eId="cmp_spa__art_21" GUID="E566C954-0540-4AF0-B8AE-C607B67C6C45">
             <num>Artículo 21</num>
-            <paragraph eId="cmp_spa__art_21__para_1"><num>1.</num><content><p>Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio de representantes libremente escogidos.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_21__para_2"><num>2.</num><content><p>Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas de su país.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_21__para_3"><num>3.</num><content><p>La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal e igual y por voto secreto u otro procedimiento equivalente que garantice la libertad del voto.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_21__para_1" GUID="DC9FADE9-106A-4D78-9A6C-5ADDC49B9989"><num>1.</num><content><p>Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio de representantes libremente escogidos.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_21__para_2" GUID="3BF2220A-FC83-40AD-BA0E-816552334439"><num>2.</num><content><p>Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas de su país.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_21__para_3" GUID="02FECE5C-7846-40B9-94B5-9CEC9D355524"><num>3.</num><content><p>La voluntad del pueblo es la base de la autoridad del poder público; esta voluntad se expresará mediante elecciones auténticas que habrán de celebrarse periódicamente, por sufragio universal e igual y por voto secreto u otro procedimiento equivalente que garantice la libertad del voto.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_22">
+          <article eId="cmp_spa__art_22" GUID="ABC5ADE5-8DFD-4CEF-97D0-1BEE8845B13D">
             <num>Artículo 22</num>
             <content>
               <p>Toda persona, como miembro de la sociedad, tiene derecho a la seguridad social, y a obtener, mediante el esfuerzo nacional y la cooperación internacional, habida cuenta de la organización y los recursos de cada Estado, la satisfacción de los derechos económicos, sociales y culturales, indispensables a su dignidad y al libre desarrollo de su personalidad.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_23">
+          <article eId="cmp_spa__art_23" GUID="8B4AEA1C-5439-4EF0-BC19-E0CA591A1313">
             <num>Artículo 23</num>
-            <paragraph eId="cmp_spa__art_23__para_1"><num>1.</num><content><p>Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_23__para_2"><num>2.</num><content><p>Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_23__para_3"><num>3.</num><content><p>Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le asegure, así como a su familia, una existencia conforme a la dignidad humana y que será completada, en caso necesario, por cualesquiera otros medios de protección social.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_23__para_4"><num>4.</num><content><p>Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_23__para_1" GUID="83B7B489-02CD-4BA0-8C06-660A543B0E47"><num>1.</num><content><p>Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_23__para_2" GUID="FE730837-A70A-4017-A77F-7F74957B16C5"><num>2.</num><content><p>Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_23__para_3" GUID="7DBA5E08-2C05-4735-9D98-6381246A6F11"><num>3.</num><content><p>Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le asegure, así como a su familia, una existencia conforme a la dignidad humana y que será completada, en caso necesario, por cualesquiera otros medios de protección social.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_23__para_4" GUID="945FE8C9-E719-4B42-A701-7E6CBD60F3F3"><num>4.</num><content><p>Toda persona tiene derecho a fundar sindicatos y a sindicarse para la defensa de sus intereses.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_24">
+          <article eId="cmp_spa__art_24" GUID="474FE66B-9078-4699-B10A-4DA7B01F9CB1">
             <num>Artículo 24</num>
             <content>
               <p>Toda persona tiene derecho al descanso, al disfrute del tiempo libre, a una limitación razonable de la duración del trabajo y a vacaciones periódicas pagadas.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_25">
+          <article eId="cmp_spa__art_25" GUID="0154DB94-3AFE-4845-B526-E39E24403996">
             <num>Artículo 25</num>
-            <paragraph eId="cmp_spa__art_25__para_1"><num>1.</num><content><p>Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, enfermedad, invalidez, viudez, vejez u otros casos de pérdida de sus medios de subsistencia por circunstancias independientes de su voluntad.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_25__para_2"><num>2.</num><content><p>La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_25__para_1" GUID="B0A477BB-5D2B-41F7-957D-7A753B1E60BD"><num>1.</num><content><p>Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, enfermedad, invalidez, viudez, vejez u otros casos de pérdida de sus medios de subsistencia por circunstancias independientes de su voluntad.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_25__para_2" GUID="2D831697-F9DA-43ED-8B14-5FE981123917"><num>2.</num><content><p>La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_26">
+          <article eId="cmp_spa__art_26" GUID="91A9847B-B8A9-4B3D-944B-99C4CC26C4E7">
             <num>Artículo 26</num>
-            <paragraph eId="cmp_spa__art_26__para_1"><num>1.</num><content><p>Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo concerniente a la instrucción elemental y fundamental. La instrucción elemental será obligatoria. La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_26__para_2"><num>2.</num><content><p>La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_26__para_3"><num>3.</num><content><p>Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_26__para_1" GUID="74D1D016-CB9F-48BE-B5CB-A63245E1ADB0"><num>1.</num><content><p>Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo concerniente a la instrucción elemental y fundamental. La instrucción elemental será obligatoria. La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_26__para_2" GUID="680C010D-9F9C-45CE-B92E-C275BB9770D4"><num>2.</num><content><p>La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_26__para_3" GUID="5B5160D5-C999-4988-9C7E-BD0F86475C74"><num>3.</num><content><p>Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_27">
+          <article eId="cmp_spa__art_27" GUID="7A1E1A74-8146-479A-80FC-35DEFE991D1A">
             <num>Artículo 27</num>
-            <paragraph eId="cmp_spa__art_27__para_1"><num>1.</num><content><p>Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_27__para_2"><num>2.</num><content><p>Toda persona tiene derecho a la protección de los intereses morales y materiales que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_27__para_1" GUID="A70D1380-787F-4A0F-AB9A-7E5203533AE4"><num>1.</num><content><p>Toda persona tiene derecho a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en los beneficios que de él resulten.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_27__para_2" GUID="E76687B9-0CB6-483E-A0C0-2F2E67524499"><num>2.</num><content><p>Toda persona tiene derecho a la protección de los intereses morales y materiales que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_28">
+          <article eId="cmp_spa__art_28" GUID="AB9EA460-E1A0-43AE-990F-229B1CBB4EFA">
             <num>Artículo 28</num>
             <content>
               <p>Toda persona tiene derecho a que se establezca un orden social e internacional en el que los derechos y libertades proclamados en esta Declaración se hagan plenamente efectivos.</p>
             </content>
           </article>
-          <article eId="cmp_spa__art_29">
+          <article eId="cmp_spa__art_29" GUID="10D5ED64-A131-4E03-B7C0-5C71FAD364EA">
             <num>Artículo 29</num>
-            <paragraph eId="cmp_spa__art_29__para_1"><num>1.</num><content><p>Toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_29__para_2"><num>2.</num><content><p>En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.</p></content></paragraph>
-            <paragraph eId="cmp_spa__art_29__para_3"><num>3.</num><content><p>Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los propósitos y principios de las Naciones Unidas.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_29__para_1" GUID="0513D039-ED9F-4A42-8257-F064ABE1B75C"><num>1.</num><content><p>Toda persona tiene deberes respecto a la comunidad, puesto que sólo en ella puede desarrollar libre y plenamente su personalidad.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_29__para_2" GUID="034902D2-7C96-4205-ABBE-0471EC79CACD"><num>2.</num><content><p>En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.</p></content></paragraph>
+            <paragraph eId="cmp_spa__art_29__para_3" GUID="813BB639-F68F-4546-9889-A5AF17214ABA"><num>3.</num><content><p>Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los propósitos y principios de las Naciones Unidas.</p></content></paragraph>
           </article>
-          <article eId="cmp_spa__art_30">
+          <article eId="cmp_spa__art_30" GUID="CB255768-2ED9-4E28-A15F-30269FD91A66">
             <num>Artículo 30</num>
             <content>
               <p>Nada en esta Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades o realizar actos tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta Declaración.</p>

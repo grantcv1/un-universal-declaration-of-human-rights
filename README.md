@@ -20,6 +20,7 @@ To view the document locally, keep the XML and CSS files in the same folder and 
 - **Structure:** A `<documentCollection>` holds six `<component>` elements, each with a complete `<statement name="declaration">`, its own language expression and its own metadata. The order is English, then the other languages as the UN site lists them.
 - **Parts of each text:** The recitals are `<recital>` elements, the proclamation is in `<formula name="enactingFormula">`, and the 30 articles are `<article>` elements. Numbered clauses are `<paragraph>` elements.
 - **Identifiers:** Eids carry the language, so `cmp_fra__art_19` is Article 19 in French.
+- **Identifiers:** Every element with an `eId` also has a `GUID`. Text-level `<p>` elements have neither.
 - **Number:** The FRBR number is the General Assembly resolution, 217 A (III).
 - **Differences among the texts:** Each text keeps the paragraphing of its source. The French text numbers two clauses in Article 2, which the others do not. In the English source the clause numbers are list numbers, and they are given in `<num>` here.
 
