@@ -31,3 +31,13 @@ Text: the [United Nations website](https://www.un.org/en/about-us/universal-decl
 ## Fonts
 
 The stylesheet embeds subsets of Jost, Noto Naskh Arabic and Noto Sans SC, all licensed under the [SIL Open Font License](https://openfontlicense.org/).
+
+## License
+
+The Akoma Ntoso markup, stylesheet rules, scripts and landing page are under the MIT License in `LICENSE`. That license does not cover the items below, which keep their own terms.
+
+- **Text:** © United Nations. The terms for reusing this text have not been confirmed. It will be removed if the United Nations asks.
+- **Images:** None.
+- **Fonts:** Jost, Noto Naskh Arabic and Noto Sans SC, under the licenses in `FONT-LICENSES.md`.
+
+This is an unofficial copy, not an official version of the text.
